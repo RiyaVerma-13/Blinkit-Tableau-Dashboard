@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,City,State,Category,Sub_Category,Product_Name,Brand,Quantity,Unit_Price,Discount,Sales,Profit,Customer_Type,Delivery_Time_Min,Payment_Method,Rating
+B1000,2026-06-18,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,7,644,10,4057.2,692.11,Returning,37,Cash,3
+B1001,2026-03-02,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,8,231,0,1848,209.49,New,53,UPI,3
+B1002,2026-01-07,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,8,112,5,851.2,155.76,New,14,UPI,3.9
+B1003,2026-06-09,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,2,565,5,1073.5,260.64,New,51,Credit Card,4.6
+B1004,2026-01-12,Delhi,Delhi,Beverages,Beverages,Juice,Real,7,361,15,2147.95,331.36,New,32,UPI,4.3
+B1005,2026-02-10,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,7,389,20,2178.4,336.88,Returning,47,Wallet,4.3
+B1006,2026-01-11,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,5,791,5,3757.25,556.93,Returning,18,UPI,3.1
+B1007,2026-01-21,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,3,362,0,1086,253.13,New,59,Cash,3.3
+B1008,2026-05-05,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,1,774,20,619.2,59.94,New,57,Credit Card,4.1
+B1009,2026-04-04,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,2,79,0,158,27.68,New,25,Wallet,4.3
+B1010,2026-04-03,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,4,575,5,2185,459,Returning,60,Credit Card,4.9
+B1011,2026-04-16,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,2,168,10,302.4,31.15,New,31,Cash,3.7
+B1012,2026-01-02,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,3,625,15,1593.75,253.91,New,21,Cash,4
+B1013,2026-06-02,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,2,321,5,609.9,147,Returning,10,Wallet,4.3
+B1014,2026-05-06,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,5,571,10,2569.5,597.7,New,39,Credit Card,3.7
+B1015,2026-04-28,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,6,673,10,3634.2,890.95,Returning,56,UPI,5
+B1016,2026-02-09,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,4,625,20,2000,220.21,Returning,21,Cash,3.3
+B1017,2026-02-20,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,5,99,20,396,70.29,New,59,UPI,3.6
+B1018,2026-05-27,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,4,383,20,1225.6,276.58,New,53,Wallet,4
+B1019,2026-04-07,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,1,452,5,429.4,106.63,Returning,10,Wallet,5
+B1020,2026-06-21,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,7,566,0,3962,469.24,Returning,42,Credit Card,3.7
+B1021,2026-06-08,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,5,772,10,3474,647.51,Returning,50,Cash,3.4
+B1022,2026-01-25,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,1,135,20,108,11.71,Returning,16,Credit Card,3.2
+B1023,2026-05-11,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,3,33,15,84.15,19.38,Returning,42,Wallet,4
+B1024,2026-04-14,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,2,389,10,700.2,154.98,Returning,54,UPI,4.2
+B1025,2026-06-10,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,8,607,10,4370.4,979.27,Returning,16,Cash,4.4
+B1026,2026-02-01,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,8,307,15,2087.6,348.96,New,58,Wallet,4
+B1027,2026-06-28,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,7,632,20,3539.2,701.67,Returning,59,Wallet,4.5
+B1028,2026-03-24,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,4,696,20,2227.2,202.73,New,44,Cash,3.7
+B1029,2026-04-16,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,2,243,5,461.7,55.08,New,52,UPI,4.8
+B1030,2026-05-19,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,1,137,0,137,32.78,New,34,Cash,3.9
+B1031,2026-03-27,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,7,739,0,5173,884.38,New,44,Cash,4.7
+B1032,2026-04-04,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,5,164,0,820,162.49,Returning,35,UPI,4.8
+B1033,2026-05-17,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,6,569,5,3243.3,533.96,Returning,13,Credit Card,3.9
+B1034,2026-05-30,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,5,757,20,3028,731.48,New,16,UPI,3.4
+B1035,2026-03-20,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,5,300,5,1425,130.34,Returning,37,UPI,4.7
+B1036,2026-05-31,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,8,729,0,5832,927.69,New,41,Cash,4.7
+B1037,2026-05-18,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,5,594,15,2524.5,558.52,Returning,16,Cash,4.6
+B1038,2026-03-19,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,7,766,20,4289.6,597.77,Returning,44,Credit Card,4.5
+B1039,2026-06-26,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,4,636,15,2162.4,446.08,Returning,48,Wallet,3.7
+B1040,2026-01-24,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,4,23,5,87.4,13.75,Returning,54,Cash,3.8
+B1041,2026-04-26,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,5,536,0,2680,416.69,New,43,Wallet,4.5
+B1042,2026-01-31,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,3,161,0,483,76.58,Returning,41,Credit Card,4.1
+B1043,2026-03-15,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,4,775,5,2945,613.42,Returning,27,UPI,4.1
+B1044,2026-02-23,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,5,345,10,1552.5,172.17,New,38,Credit Card,4.2
+B1045,2026-06-23,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,4,520,5,1976,271.57,New,16,Wallet,4
+B1046,2026-03-20,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,7,775,10,4882.5,989.58,New,56,Credit Card,3.1
+B1047,2026-06-04,Delhi,Delhi,Beverages,Beverages,Juice,Real,2,66,5,125.4,28.71,New,55,Wallet,4.2
+B1048,2026-04-05,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,4,306,20,979.2,142.86,New,60,Cash,3.5
+B1049,2026-03-25,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,6,164,15,836.4,109.04,Returning,52,Cash,5
+B1050,2026-05-20,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,2,102,15,173.4,42.66,Returning,39,Credit Card,3.8
+B1051,2026-06-01,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,8,244,15,1659.2,297.83,Returning,18,Credit Card,3.6
+B1052,2026-04-01,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,2,611,5,1160.9,241.78,Returning,45,UPI,4.5
+B1053,2026-02-16,Mumbai,Maharashtra,Fruits,Fruits,Apple,Fresh,6,215,10,1161,143.25,New,57,Credit Card,4.2
+B1054,2026-01-26,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,7,172,0,1204,186.05,New,55,UPI,4.4
+B1055,2026-06-15,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,1,624,0,624,63.16,Returning,28,Cash,4.8
+B1056,2026-06-13,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,3,708,10,1911.6,387.4,New,53,Wallet,3.1
+B1057,2026-04-14,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,1,498,10,448.2,87.44,New,10,Cash,3.2
+B1058,2026-05-12,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,4,791,20,2531.2,415.78,New,19,Cash,4.5
+B1059,2026-05-26,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,4,612,0,2448,300.63,New,35,UPI,4.1
+B1060,2026-06-26,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,4,479,15,1628.6,228.52,New,47,Cash,4.1
+B1061,2026-05-29,Delhi,Delhi,Dairy,Dairy,Milk,Amul,7,475,5,3158.75,775.67,New,31,UPI,3.8
+B1062,2026-05-31,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,4,420,10,1512,208.15,Returning,58,Cash,4.3
+B1063,2026-02-18,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,1,224,5,212.8,19.59,New,34,Wallet,4
+B1064,2026-01-04,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,8,725,5,5510,543.27,Returning,47,Credit Card,4.9
+B1065,2026-04-05,Pune,Maharashtra,Beverages,Beverages,Juice,Real,7,191,0,1337,235.52,New,52,UPI,3
+B1066,2026-04-26,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,1,633,0,633,115.68,New,52,Wallet,4.2
+B1067,2026-02-16,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,7,527,5,3504.55,590.81,New,25,Wallet,4.1
+B1068,2026-03-20,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,1,526,10,473.4,57.45,Returning,16,UPI,3.6
+B1069,2026-05-24,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,1,247,10,222.3,50.85,New,34,Credit Card,4.3
+B1070,2026-04-17,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,3,729,20,1749.6,155.51,New,59,Credit Card,4.1
+B1071,2026-01-08,Bengaluru,Karnataka,Dairy,Dairy,Curd,Mother Dairy,4,575,10,2070,503.99,Returning,21,UPI,3.7
+B1072,2026-03-07,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,6,378,0,2268,546.11,Returning,60,Cash,3
+B1073,2026-03-21,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,3,558,20,1339.2,212.9,New,18,Credit Card,4
+B1074,2026-01-11,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,7,354,5,2354.1,297.32,New,52,UPI,3.1
+B1075,2026-06-22,Delhi,Delhi,Beverages,Beverages,Juice,Real,7,676,15,4022.2,814.28,New,55,Cash,4.6
+B1076,2026-06-23,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,5,121,10,544.5,118.67,Returning,28,Credit Card,3.6
+B1077,2026-03-11,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,6,73,20,350.4,42.85,New,36,Wallet,4.4
+B1078,2026-05-23,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,5,435,15,1848.75,427.31,Returning,26,Cash,4.7
+B1079,2026-03-23,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,4,314,10,1130.4,105.77,Returning,30,Cash,4.4
+B1080,2026-05-17,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,1,216,15,183.6,42.46,New,44,UPI,4.9
+B1081,2026-04-27,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,5,369,15,1568.25,246.22,Returning,60,Wallet,3.5
+B1082,2026-06-09,Delhi,Delhi,Beverages,Beverages,Juice,Real,6,471,10,2543.4,374.66,New,12,Credit Card,3.7
+B1083,2026-02-17,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,3,461,5,1313.85,190.53,New,33,Cash,3.6
+B1084,2026-06-05,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,2,744,15,1264.8,180.18,Returning,27,Cash,3.8
+B1085,2026-01-13,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,2,375,0,750,151.28,New,54,Credit Card,3.8
+B1086,2026-03-06,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,2,759,20,1214.4,190.07,Returning,54,Wallet,3.3
+B1087,2026-05-08,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,2,270,10,486,65.64,New,16,Credit Card,3.8
+B1088,2026-06-22,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,1,537,5,510.15,68.98,Returning,42,Cash,4.5
+B1089,2026-06-04,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,4,101,5,383.8,66.17,Returning,17,Wallet,4.2
+B1090,2026-05-29,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,7,537,20,3007.2,375.86,Returning,23,UPI,4.4
+B1091,2026-06-06,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,7,285,5,1895.25,354.07,New,39,Credit Card,4.3
+B1092,2026-01-29,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,5,545,10,2452.5,441.52,New,22,Cash,4.2
+B1093,2026-03-16,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,8,419,20,2681.6,281.1,Returning,46,Cash,4.3
+B1094,2026-06-28,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,6,376,10,2030.4,240.53,New,31,Wallet,4.3
+B1095,2026-01-15,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,1,88,10,79.2,18.14,New,41,Wallet,3.6
+B1096,2026-06-26,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,8,618,20,3955.2,620.7,New,38,UPI,4.5
+B1097,2026-05-27,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,4,406,15,1380.4,335.15,Returning,10,UPI,4.9
+B1098,2026-03-27,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,4,299,0,1196,226.12,Returning,37,Credit Card,4.3
+B1099,2026-06-09,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,5,498,5,2365.5,517.45,Returning,22,Credit Card,3.5
+B1100,2026-05-29,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,3,39,5,111.15,20.28,Returning,39,Wallet,5
+B1101,2026-01-19,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,3,229,5,652.65,87.56,Returning,43,Credit Card,3.6
+B1102,2026-02-28,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,8,73,15,496.4,86.22,Returning,25,Cash,3.7
+B1103,2026-01-29,Delhi,Delhi,Beverages,Beverages,Juice,Real,8,417,5,3169.2,713.03,Returning,28,Credit Card,4
+B1104,2026-04-16,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,2,410,15,697,139.2,Returning,39,UPI,3.2
+B1105,2026-03-24,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,8,405,20,2592,246.61,New,44,Credit Card,4
+B1106,2026-03-04,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,1,220,15,187,38.06,Returning,12,UPI,3.5
+B1107,2026-04-20,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,4,525,20,1680,341.33,Returning,28,Credit Card,3.3
+B1108,2026-02-21,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,6,387,5,2205.9,343.29,Returning,28,Cash,3.2
+B1109,2026-03-15,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,1,303,15,257.55,29.63,Returning,22,Credit Card,3.5
+B1110,2026-02-11,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,6,85,5,484.5,79.7,New,49,Credit Card,4.5
+B1111,2026-01-26,Pune,Maharashtra,Beverages,Beverages,Juice,Real,7,289,15,1719.55,177.43,New,52,Wallet,3.4
+B1112,2026-05-11,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,3,401,15,1022.55,152.26,New,13,Cash,5
+B1113,2026-03-17,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,6,671,0,4026,506.05,New,40,Wallet,3.5
+B1114,2026-02-23,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,4,130,20,416,47.17,New,25,UPI,3.7
+B1115,2026-06-23,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,4,349,0,1396,259.85,Returning,37,Credit Card,4.7
+B1116,2026-05-12,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,7,182,10,1146.6,253.84,Returning,51,Wallet,3.3
+B1117,2026-05-10,Mumbai,Maharashtra,Fruits,Fruits,Apple,Fresh,8,364,15,2475.2,269.05,Returning,14,Wallet,3.8
+B1118,2026-05-30,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,2,741,20,1185.6,201.84,Returning,28,Credit Card,4.7
+B1119,2026-05-09,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,5,100,15,425,66.57,Returning,50,Credit Card,3
+B1120,2026-06-06,Pune,Maharashtra,Beverages,Beverages,Juice,Real,5,48,5,228,24.24,Returning,43,UPI,3.9
+B1121,2026-04-17,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,4,647,0,2588,317.64,New,45,Wallet,5
+B1122,2026-02-26,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,4,73,5,277.4,58.43,New,60,UPI,3.8
+B1123,2026-04-26,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,1,43,20,34.4,4.98,Returning,41,Credit Card,4.4
+B1124,2026-04-26,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,6,535,0,3210,768.23,Returning,20,Cash,3.1
+B1125,2026-02-15,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,7,414,20,2318.4,375.88,Returning,31,Cash,4.3
+B1126,2026-03-26,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,5,524,10,2358,553.85,New,13,Credit Card,4.6
+B1127,2026-04-15,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,1,328,0,328,66.35,New,12,UPI,3.3
+B1128,2026-04-01,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,5,641,20,2564,402.45,New,35,Credit Card,3.6
+B1129,2026-04-07,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,7,521,5,3464.65,797.43,New,60,UPI,4.3
+B1130,2026-06-25,Bengaluru,Karnataka,Dairy,Dairy,Curd,Mother Dairy,4,56,5,212.8,38.63,New,11,Credit Card,3.5
+B1131,2026-05-22,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,5,786,0,3930,598.65,Returning,44,Cash,3.9
+B1132,2026-02-07,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,6,93,20,446.4,57.15,Returning,42,UPI,3.9
+B1133,2026-04-06,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,3,323,10,872.1,198.31,New,39,Cash,4.1
+B1134,2026-02-03,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,4,513,5,1949.4,414.99,New,37,UPI,4
+B1135,2026-05-19,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,8,164,0,1312,242.37,New,57,Credit Card,4
+B1136,2026-01-01,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,4,150,5,570,95.56,New,59,Wallet,5
+B1137,2026-06-24,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,6,380,20,1824,283.65,Returning,57,UPI,3.3
+B1138,2026-06-09,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,6,511,5,2912.7,313.54,Returning,18,Wallet,4
+B1139,2026-06-27,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,8,102,0,816,86.07,New,22,Credit Card,4.6
+B1140,2026-02-19,Delhi,Delhi,Dairy,Dairy,Milk,Amul,2,688,5,1307.2,229.89,New,51,Wallet,3.3
+B1141,2026-04-27,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,8,378,0,3024,323.31,Returning,58,Cash,5
+B1142,2026-01-03,Bengaluru,Karnataka,Dairy,Dairy,Curd,Mother Dairy,7,207,5,1376.55,180.26,New,10,Credit Card,4.6
+B1143,2026-01-09,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,1,367,10,330.3,47.81,New,21,Cash,4.6
+B1144,2026-02-12,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,3,731,10,1973.7,435.33,Returning,39,Cash,4.2
+B1145,2026-04-26,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,7,60,10,378,67.97,Returning,10,Credit Card,3.6
+B1146,2026-01-28,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,7,431,15,2564.45,240.37,Returning,11,Credit Card,4.1
+B1147,2026-04-03,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,6,447,15,2279.7,249.94,Returning,37,Cash,4.7
+B1148,2026-02-15,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,7,678,0,4746,482.03,New,15,UPI,3.3
+B1149,2026-06-07,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,1,285,20,228,21.65,New,56,Credit Card,3.5
+B1150,2026-05-26,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,2,579,5,1100.1,142.02,Returning,37,Credit Card,4.9
+B1151,2026-03-30,Delhi,Delhi,Beverages,Beverages,Juice,Real,7,202,15,1201.9,147.84,Returning,26,Wallet,4.9
+B1152,2026-02-08,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,6,546,20,2620.8,513.66,Returning,53,UPI,3.1
+B1153,2026-01-12,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,8,643,15,4372.4,620.99,Returning,30,UPI,4.7
+B1154,2026-03-07,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,7,142,10,894.6,78.75,New,50,Credit Card,4.3
+B1155,2026-06-09,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,5,563,15,2392.75,571.15,New,57,UPI,3
+B1156,2026-05-12,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,8,625,0,5000,1057.68,New,46,Wallet,4.1
+B1157,2026-05-17,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,8,545,0,4360,474.17,New,58,Cash,4.3
+B1158,2026-04-02,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,6,171,5,974.7,186.46,Returning,29,Credit Card,4.8
+B1159,2026-02-20,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,8,622,5,4727.2,1115.93,New,44,Wallet,3.1
+B1160,2026-04-17,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,1,563,5,534.85,85.51,New,13,Wallet,3.7
+B1161,2026-04-27,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,4,487,15,1655.8,202.9,Returning,28,Credit Card,3
+B1162,2026-05-30,Pune,Maharashtra,Beverages,Beverages,Juice,Real,6,610,5,3477,655.09,New,36,UPI,4.2
+B1163,2026-02-22,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,7,58,5,385.7,93.29,New,49,UPI,3.7
+B1164,2026-05-10,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,6,607,0,3642,331.06,Returning,52,Cash,3.4
+B1165,2026-03-14,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,1,86,15,73.1,10.43,New,51,Cash,4.6
+B1166,2026-06-13,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,6,716,5,4081.2,1008.07,New,38,Credit Card,4.7
+B1167,2026-03-09,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,6,202,20,969.6,102.73,New,27,Credit Card,3.3
+B1168,2026-05-16,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,1,525,5,498.75,48.38,New,25,Cash,4.7
+B1169,2026-06-23,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,4,307,10,1105.2,188.55,New,50,Cash,4.5
+B1170,2026-04-17,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,6,522,0,3132,324.58,Returning,54,Credit Card,4.5
+B1171,2026-04-09,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,7,28,5,186.2,42.71,Returning,42,Cash,4
+B1172,2026-05-07,Jaipur,Rajasthan,Fruits,Fruits,Apple,Fresh,1,207,15,175.95,16.16,New,18,Credit Card,4.8
+B1173,2026-03-07,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,1,797,5,757.15,174.28,Returning,37,Wallet,3.6
+B1174,2026-05-15,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,2,615,10,1107,229.29,New,16,Wallet,3.8
+B1175,2026-04-06,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,8,525,0,4200,403.25,Returning,40,UPI,4.3
+B1176,2026-02-24,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,5,55,0,275,40.19,New,31,UPI,4.5
+B1177,2026-02-02,Bengaluru,Karnataka,Dairy,Dairy,Curd,Mother Dairy,1,69,20,55.2,4.51,Returning,46,Credit Card,3.5
+B1178,2026-01-23,Pune,Maharashtra,Beverages,Beverages,Juice,Real,3,656,10,1771.2,430.92,Returning,19,Credit Card,3.8
+B1179,2026-04-11,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,3,320,10,864,188.21,Returning,35,Credit Card,4
+B1180,2026-01-28,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,4,330,0,1320,265.61,Returning,60,UPI,3.7
+B1181,2026-03-05,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,3,776,0,2328,353.17,New,14,Wallet,3.7
+B1182,2026-01-19,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,3,782,15,1994.1,430.26,New,38,UPI,4.1
+B1183,2026-04-05,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,7,614,20,3438.4,515.65,New,32,Cash,4.1
+B1184,2026-05-28,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,5,125,20,500,45.85,New,22,Cash,3.4
+B1185,2026-05-01,Jaipur,Rajasthan,Fruits,Fruits,Apple,Fresh,3,321,0,963,89.68,New,52,Cash,4.8
+B1186,2026-02-19,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,4,744,10,2678.4,317.06,Returning,59,UPI,3.6
+B1187,2026-03-17,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,8,99,5,752.4,118.49,Returning,60,UPI,4
+B1188,2026-02-18,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,1,147,15,124.95,27.88,New,26,Wallet,4.1
+B1189,2026-03-13,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,1,765,0,765,180.58,New,42,Wallet,4.6
+B1190,2026-02-22,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,1,109,20,87.2,18.21,New,52,Credit Card,3
+B1191,2026-04-22,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,8,218,20,1395.2,279.64,Returning,14,UPI,4.5
+B1192,2026-06-20,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,7,32,5,212.8,22.66,Returning,48,Credit Card,4.2
+B1193,2026-01-18,Delhi,Delhi,Beverages,Beverages,Juice,Real,1,405,5,384.75,36.42,New,39,Cash,3.2
+B1194,2026-05-17,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,8,274,15,1863.2,189.37,New,43,UPI,3.2
+B1195,2026-02-01,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,5,112,15,476,55.08,Returning,15,Credit Card,3
+B1196,2026-01-21,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,4,610,10,2196,219.12,Returning,23,UPI,4.9
+B1197,2026-02-23,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,3,142,0,426,40.71,New,45,Credit Card,4.3
+B1198,2026-04-05,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,2,430,15,731,171.66,New,29,Wallet,4.1
+B1199,2026-02-20,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,7,709,0,4963,643.52,Returning,34,UPI,4.3
+B1200,2026-02-02,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,6,745,5,4246.5,497.87,Returning,34,Cash,4.9
+B1201,2026-01-08,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,1,537,5,510.15,48.03,New,33,UPI,4.1
+B1202,2026-03-27,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,1,749,20,599.2,119.12,Returning,39,Wallet,4.3
+B1203,2026-05-11,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,4,590,5,2242,509.53,New,36,Credit Card,3.7
+B1204,2026-05-25,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,1,387,10,348.3,64.32,Returning,48,UPI,3.3
+B1205,2026-04-04,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,6,202,0,1212,156.12,Returning,47,Wallet,5
+B1206,2026-03-02,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,4,345,15,1173,264.66,Returning,42,Wallet,3.4
+B1207,2026-03-06,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,5,673,15,2860.25,335.19,Returning,43,UPI,4.6
+B1208,2026-06-12,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,5,148,0,740,176.98,Returning,28,UPI,4.1
+B1209,2026-02-03,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,8,620,10,4464,898.64,New,15,Credit Card,4.5
+B1210,2026-05-28,Pune,Maharashtra,Beverages,Beverages,Juice,Real,2,649,0,1298,125.62,Returning,59,UPI,3.9
+B1211,2026-06-23,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,4,412,5,1565.6,140.96,Returning,59,Wallet,4.6
+B1212,2026-05-06,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,7,384,20,2150.4,340.33,Returning,18,UPI,3.1
+B1213,2026-01-26,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,3,375,5,1068.75,221.21,Returning,41,Cash,4.3
+B1214,2026-04-05,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,6,106,5,604.2,145.25,New,35,Credit Card,4.4
+B1215,2026-01-04,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,8,574,20,3673.6,375.89,New,33,UPI,3.6
+B1216,2026-05-13,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,6,513,10,2770.2,438.54,New,39,Wallet,4.4
+B1217,2026-06-12,Delhi,Delhi,Beverages,Beverages,Juice,Real,3,622,10,1679.4,261.39,Returning,25,UPI,3.5
+B1218,2026-05-05,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,1,685,0,685,148.4,New,54,UPI,4.8
+B1219,2026-06-08,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,5,320,5,1520,318.46,Returning,19,Cash,3.9
+B1220,2026-03-17,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,7,44,5,292.6,35.91,Returning,48,Wallet,4.2
+B1221,2026-04-09,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,6,723,5,4121.1,619.87,New,53,Credit Card,3.9
+B1222,2026-01-31,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,4,529,15,1798.6,326.57,New,49,Credit Card,3.6
+B1223,2026-03-17,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,3,494,20,1185.6,164.3,Returning,40,UPI,3.5
+B1224,2026-04-17,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,8,598,5,4544.8,845.85,New,38,UPI,3.5
+B1225,2026-03-08,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,6,102,10,550.8,97.8,Returning,52,UPI,4
+B1226,2026-02-06,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,2,315,5,598.5,60.95,New,30,Wallet,4
+B1227,2026-06-16,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,2,522,10,939.6,103.12,New,57,Wallet,4.4
+B1228,2026-06-09,Jaipur,Rajasthan,Fruits,Fruits,Apple,Fresh,5,627,0,3135,347.77,New,42,Wallet,3.9
+B1229,2026-06-29,Delhi,Delhi,Dairy,Dairy,Milk,Amul,4,722,0,2888,707.8,Returning,31,UPI,3.4
+B1230,2026-02-11,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,4,272,0,1088,193.27,New,21,Credit Card,3.8
+B1231,2026-01-19,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,4,119,15,404.6,50.46,New,36,Wallet,4.7
+B1232,2026-02-01,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,5,711,0,3555,313.75,Returning,11,Credit Card,4.1
+B1233,2026-03-10,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,4,325,5,1235,283.79,New,51,Cash,4.5
+B1234,2026-02-08,Delhi,Delhi,Dairy,Dairy,Milk,Amul,8,537,15,3651.6,851.12,Returning,40,Wallet,3.9
+B1235,2026-04-10,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,3,450,0,1350,287.11,New,14,Wallet,3.4
+B1236,2026-06-14,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,3,631,5,1798.35,168.94,Returning,57,UPI,3.1
+B1237,2026-03-13,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,5,569,0,2845,297.25,Returning,54,Cash,3.5
+B1238,2026-02-04,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,5,87,5,413.25,75.15,Returning,22,Cash,3.6
+B1239,2026-06-17,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,1,316,10,284.4,42.18,New,51,Credit Card,4.7
+B1240,2026-05-17,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,4,133,0,532,82.62,New,10,Credit Card,3.5
+B1241,2026-01-28,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,6,26,10,140.4,29.07,Returning,26,Credit Card,3.4
+B1242,2026-04-06,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,6,675,0,4050,530.54,New,25,UPI,3.7
+B1243,2026-05-06,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,5,154,10,693,131.03,Returning,45,Credit Card,3.7
+B1244,2026-01-14,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,4,136,10,489.6,44.53,Returning,49,Credit Card,4.2
+B1245,2026-02-14,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,4,417,5,1584.6,186.01,Returning,21,Credit Card,3.5
+B1246,2026-06-03,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,2,480,20,768,128.51,Returning,22,UPI,3.3
+B1247,2026-03-29,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,6,667,20,3201.6,418.25,Returning,54,UPI,4.9
+B1248,2026-01-17,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,6,541,10,2921.4,410.72,New,33,Credit Card,3.3
+B1249,2026-01-16,Delhi,Delhi,Beverages,Beverages,Juice,Real,4,706,15,2400.4,521.71,New,30,Cash,4.5
+B1250,2026-03-21,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,7,395,20,2212,325.59,New,29,Wallet,4.6
+B1251,2026-06-26,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,5,302,10,1359,312.56,Returning,52,Wallet,4.2
+B1252,2026-01-28,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,5,309,0,1545,182.52,New,22,UPI,4.6
+B1253,2026-05-07,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,3,260,15,663,110.14,New,43,Wallet,4
+B1254,2026-05-04,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,2,636,0,1272,195.37,New,50,Credit Card,3.8
+B1255,2026-02-16,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,5,62,15,263.5,34.06,Returning,20,UPI,4
+B1256,2026-02-08,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,3,401,20,962.4,215.7,Returning,23,Cash,4.4
+B1257,2026-02-25,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,2,169,20,270.4,35.45,New,58,Wallet,4.1
+B1258,2026-03-05,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,1,343,10,308.7,47.93,Returning,42,Cash,3.3
+B1259,2026-04-08,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,5,786,10,3537,708.03,Returning,51,Cash,3.8
+B1260,2026-05-24,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,7,656,5,4362.4,385.05,New,44,Cash,3.5
+B1261,2026-05-05,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,1,373,0,373,82.81,Returning,17,Cash,3.7
+B1262,2026-06-08,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,7,365,15,2171.75,443.55,Returning,34,Wallet,4.8
+B1263,2026-04-12,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,5,570,20,2280,396.83,Returning,47,Cash,3.8
+B1264,2026-02-06,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,7,282,15,1677.9,239.45,Returning,38,Credit Card,3
+B1265,2026-03-08,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,2,155,10,279,65.61,New,29,Cash,3.2
+B1266,2026-06-10,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,3,296,10,799.2,112.78,Returning,60,Credit Card,3.1
+B1267,2026-02-03,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,1,370,10,333,81.87,New,12,Credit Card,4.9
+B1268,2026-06-10,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,3,755,5,2151.75,476.99,Returning,59,Cash,3
+B1269,2026-03-23,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,4,647,0,2588,298.84,Returning,17,Wallet,3.9
+B1270,2026-01-02,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,1,307,0,307,56.91,Returning,13,Wallet,4.9
+B1271,2026-04-01,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,3,702,0,2106,326.36,Returning,29,UPI,3.7
+B1272,2026-02-02,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,8,331,10,2383.2,541.79,Returning,42,Cash,4.7
+B1273,2026-05-29,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,5,573,0,2865,243.73,Returning,59,Cash,4.1
+B1274,2026-03-23,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,7,695,5,4621.75,962.52,New,26,Cash,3.9
+B1275,2026-03-10,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,7,474,5,3152.1,568.3,New,45,Credit Card,3.9
+B1276,2026-06-06,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,4,274,10,986.4,171.87,New,27,Credit Card,3.9
+B1277,2026-04-27,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,8,90,5,684,112.37,New,44,Credit Card,4.5
+B1278,2026-04-16,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,4,232,20,742.4,131.85,New,56,Credit Card,4
+B1279,2026-05-26,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,2,531,5,1008.9,120.11,New,25,UPI,3.7
+B1280,2026-02-27,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,7,324,15,1927.8,344.73,New,60,Credit Card,4.2
+B1281,2026-01-06,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,1,38,10,34.2,6.42,Returning,42,Credit Card,3.3
+B1282,2026-04-29,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,8,363,15,2468.4,458.94,New,58,UPI,4.7
+B1283,2026-04-09,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,1,771,20,616.8,143.91,Returning,52,Cash,4.2
+B1284,2026-06-06,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,5,595,5,2826.25,629.73,New,52,Credit Card,3.4
+B1285,2026-01-19,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,1,360,15,306,63.18,Returning,20,UPI,3.8
+B1286,2026-06-16,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,4,306,0,1224,180.99,New,55,UPI,4.2
+B1287,2026-03-15,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,7,785,10,4945.5,842.6,Returning,18,Wallet,4.1
+B1288,2026-06-08,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,4,582,20,1862.4,235.41,Returning,26,UPI,4.5
+B1289,2026-03-22,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,2,403,15,685.1,164.18,New,11,Wallet,3.7
+B1290,2026-06-17,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,6,110,0,660,152.3,Returning,59,Wallet,3.2
+B1291,2026-05-19,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,5,108,15,459,38.65,Returning,53,Credit Card,3.6
+B1292,2026-05-23,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,3,748,0,2244,470.16,Returning,59,Cash,3.1
+B1293,2026-05-16,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,6,373,20,1790.4,151.54,Returning,12,Wallet,4.6
+B1294,2026-05-19,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,5,630,10,2835,534.94,Returning,34,Credit Card,3
+B1295,2026-04-04,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,7,582,15,3462.9,366.8,Returning,10,Wallet,4.2
+B1296,2026-03-27,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,7,628,15,3736.6,836.84,New,32,Wallet,3.1
+B1297,2026-06-11,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,5,596,20,2384,574.53,Returning,38,UPI,4.2
+B1298,2026-03-23,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,1,525,15,446.25,55.93,New,54,UPI,4.5
+B1299,2026-06-09,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,7,321,20,1797.6,284.23,Returning,10,Wallet,3.7
+B1300,2026-05-24,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,6,737,0,4422,712.34,New,18,Cash,3
+B1301,2026-06-06,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,3,269,5,766.65,96.99,New,10,Wallet,3.5
+B1302,2026-03-02,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,6,616,5,3511.2,521.7,Returning,52,Cash,3.1
+B1303,2026-01-14,Delhi,Delhi,Beverages,Beverages,Juice,Real,1,74,5,70.3,11.17,Returning,33,Cash,3.8
+B1304,2026-03-10,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,2,311,15,528.7,125.53,New,29,Cash,4
+B1305,2026-04-08,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,6,121,20,580.8,109.44,Returning,17,Credit Card,4.3
+B1306,2026-02-10,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,5,97,15,412.25,44.76,Returning,36,UPI,3.1
+B1307,2026-02-20,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,6,187,20,897.6,85.65,New,14,Credit Card,3.7
+B1308,2026-01-24,Bengaluru,Karnataka,Dairy,Dairy,Curd,Mother Dairy,4,98,0,392,47.8,New,21,Cash,3.5
+B1309,2026-05-06,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,4,167,5,634.6,139.17,Returning,35,Credit Card,3.8
+B1310,2026-05-28,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,7,560,10,3528,364.54,New,28,UPI,4.9
+B1311,2026-06-12,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,5,178,15,756.5,152.73,Returning,58,UPI,3.7
+B1312,2026-01-09,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,1,608,10,547.2,111.25,New,47,Wallet,3.7
+B1313,2026-01-28,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,2,760,0,1520,323.75,Returning,20,Wallet,4.5
+B1314,2026-03-03,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,8,154,5,1170.4,204.48,New,57,Wallet,4.2
+B1315,2026-02-22,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,2,250,0,500,87.95,Returning,48,Wallet,4.7
+B1316,2026-02-06,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,3,274,20,657.6,109.73,New,48,UPI,3.5
+B1317,2026-06-26,Delhi,Delhi,Dairy,Dairy,Milk,Amul,3,654,0,1962,361,New,53,Cash,4.7
+B1318,2026-03-25,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,3,250,10,675,118.82,Returning,18,Wallet,4.9
+B1319,2026-06-14,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,1,738,0,738,150.2,Returning,33,Credit Card,3.7
+B1320,2026-05-31,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,6,750,5,4275,714.01,New,54,Credit Card,4.9
+B1321,2026-05-15,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,5,139,5,660.25,88.31,Returning,40,Credit Card,5
+B1322,2026-06-07,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,2,150,20,240,29.2,Returning,35,Wallet,3.7
+B1323,2026-06-26,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,8,411,20,2630.4,633.77,Returning,31,Credit Card,3.7
+B1324,2026-05-31,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,1,788,20,630.4,110.17,New,48,Credit Card,4
+B1325,2026-03-18,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,2,171,10,307.8,56.1,Returning,10,Credit Card,3.2
+B1326,2026-05-23,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,3,387,0,1161,267.04,New,58,UPI,4.4
+B1327,2026-06-16,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,3,455,10,1228.5,139.39,New,45,UPI,4.4
+B1328,2026-01-03,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,1,564,0,564,129.92,New,24,UPI,4.1
+B1329,2026-01-21,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,6,554,15,2825.4,528.59,Returning,52,Wallet,3.7
+B1330,2026-05-20,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,7,552,5,3670.8,389.77,Returning,42,UPI,4.3
+B1331,2026-01-12,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,1,526,5,499.7,123.06,New,41,Cash,3.3
+B1332,2026-06-14,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,1,447,20,357.6,38.91,Returning,22,Cash,4.6
+B1333,2026-06-01,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,3,58,20,139.2,25.45,Returning,50,UPI,3.4
+B1334,2026-04-02,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,4,135,15,459,58.71,New,12,Cash,4.6
+B1335,2026-01-20,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,7,598,0,4186,621.79,New,53,Wallet,3.6
+B1336,2026-01-19,Bengaluru,Karnataka,Dairy,Dairy,Curd,Mother Dairy,4,524,20,1676.8,215.76,New,36,Credit Card,4.2
+B1337,2026-02-16,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,4,187,5,710.6,60.52,Returning,58,Cash,3.4
+B1338,2026-05-30,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,7,406,0,2842,390.14,New,48,Credit Card,4.1
+B1339,2026-01-19,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,6,463,5,2639.1,641.17,New,12,Cash,4.5
+B1340,2026-02-16,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,1,356,0,356,45.07,New,34,UPI,3.2
+B1341,2026-05-26,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,7,642,5,4269.3,777.56,New,16,Wallet,4.3
+B1342,2026-06-19,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,6,114,20,547.2,99.27,New,53,Cash,3.2
+B1343,2026-03-08,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,3,628,15,1601.4,295.18,Returning,18,Wallet,4
+B1344,2026-04-14,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,1,22,20,17.6,2.49,New,34,UPI,4.3
+B1345,2026-04-27,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,5,777,5,3690.75,790.68,Returning,27,Credit Card,3.9
+B1346,2026-02-10,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,3,673,20,1615.2,167.48,Returning,14,Wallet,4.2
+B1347,2026-01-15,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,8,640,20,4096,802.25,Returning,39,Credit Card,5
+B1348,2026-01-12,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,8,623,15,4236.4,925.63,Returning,44,UPI,4
+B1349,2026-01-22,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,8,586,0,4688,912.45,Returning,41,Cash,4.7
+B1350,2026-03-11,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,8,33,10,237.6,43.34,New,28,Wallet,4.2
+B1351,2026-06-02,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,8,632,5,4803.2,874.29,New,45,Wallet,3
+B1352,2026-05-28,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,3,540,5,1539,159.27,Returning,16,Cash,4.1
+B1353,2026-04-28,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,3,56,15,142.8,33.48,New,48,UPI,4.4
+B1354,2026-04-19,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,2,800,0,1600,189.62,New,20,UPI,3.6
+B1355,2026-06-24,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,8,339,5,2576.4,448.16,Returning,39,Cash,4.3
+B1356,2026-06-07,Delhi,Delhi,Beverages,Beverages,Juice,Real,8,355,10,2556,420.07,Returning,19,Wallet,3.6
+B1357,2026-06-23,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,5,779,15,3310.75,395.6,Returning,44,Wallet,4
+B1358,2026-06-24,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,2,368,20,588.8,119,Returning,18,Credit Card,3
+B1359,2026-02-09,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,3,572,15,1458.6,138.46,New,44,Cash,3.3
+B1360,2026-05-06,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,7,330,5,2194.5,353.93,Returning,32,Credit Card,4.8
+B1361,2026-01-19,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,3,558,20,1339.2,290,New,35,UPI,4.4
+B1362,2026-04-29,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,2,288,20,460.8,49.67,New,54,Credit Card,4.6
+B1363,2026-01-19,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,3,48,15,122.4,30.48,New,23,Credit Card,3.2
+B1364,2026-04-10,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,3,302,5,860.7,152.07,Returning,59,Wallet,4.1
+B1365,2026-02-27,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,2,597,5,1134.3,100.85,Returning,22,Credit Card,4.8
+B1366,2026-05-05,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,6,731,5,4166.7,597.43,New,60,Cash,3.3
+B1367,2026-06-15,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,3,195,20,468,69.02,Returning,10,Credit Card,3.9
+B1368,2026-03-15,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,3,730,0,2190,290.6,New,43,Credit Card,4.4
+B1369,2026-02-04,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,6,313,5,1784.1,385.37,New,58,Credit Card,4.5
+B1370,2026-04-06,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,7,710,0,4970,1075.45,New,58,Cash,4.6
+B1371,2026-03-11,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,5,67,20,268,30.93,New,21,Wallet,4.5
+B1372,2026-03-04,Bengaluru,Karnataka,Dairy,Dairy,Curd,Mother Dairy,6,248,0,1488,184.81,Returning,41,UPI,4.1
+B1373,2026-06-24,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,4,606,0,2424,243.67,Returning,31,UPI,3.1
+B1374,2026-05-27,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,3,364,0,1092,137.32,New,48,Wallet,3.8
+B1375,2026-01-10,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,6,121,5,689.7,141.18,Returning,21,Wallet,4.2
+B1376,2026-03-24,Delhi,Delhi,Dairy,Dairy,Milk,Amul,3,744,15,1897.2,374.38,New,52,Wallet,4.6
+B1377,2026-03-06,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,5,30,10,135,12.6,Returning,54,Credit Card,4.8
+B1378,2026-05-28,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,1,390,5,370.5,30.62,Returning,30,Credit Card,3
+B1379,2026-03-02,Pune,Maharashtra,Beverages,Beverages,Juice,Real,5,548,10,2466,415.11,Returning,22,Wallet,3.3
+B1380,2026-02-15,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,2,513,20,820.8,178.42,Returning,32,Wallet,4.6
+B1381,2026-01-21,Delhi,Delhi,Dairy,Dairy,Milk,Amul,1,428,20,342.4,44.32,Returning,40,Credit Card,3.9
+B1382,2026-05-23,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,3,377,10,1017.9,249.77,New,55,Credit Card,3.1
+B1383,2026-06-01,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,1,48,15,40.8,8.72,New,11,UPI,4.7
+B1384,2026-04-01,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,1,139,15,118.15,12.78,New,53,Cash,3.1
+B1385,2026-01-04,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,4,363,0,1452,321.98,New,43,Wallet,4.4
+B1386,2026-02-15,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,2,549,15,933.3,187.72,Returning,18,Wallet,4.6
+B1387,2026-03-30,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,5,84,0,420,70.89,New,13,Credit Card,4.9
+B1388,2026-05-11,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,4,198,15,673.2,138.6,Returning,58,Credit Card,3.9
+B1389,2026-03-28,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,6,107,5,609.9,65.35,Returning,23,UPI,3.8
+B1390,2026-03-17,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,2,67,5,127.3,25.77,Returning,52,UPI,3.7
+B1391,2026-04-11,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,1,231,0,231,35.54,Returning,12,Cash,5
+B1392,2026-06-26,Delhi,Delhi,Beverages,Beverages,Juice,Real,7,619,20,3466.4,392.6,Returning,15,UPI,3.5
+B1393,2026-02-09,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,1,41,0,41,4.84,Returning,30,UPI,3.6
+B1394,2026-05-18,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,4,708,20,2265.6,416.32,New,43,UPI,3.8
+B1395,2026-02-19,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,3,290,20,696,106.71,Returning,37,Credit Card,3.6
+B1396,2026-03-03,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,5,43,0,215,45.19,Returning,47,Cash,4.6
+B1397,2026-01-08,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,8,388,5,2948.8,730.58,Returning,37,UPI,4.2
+B1398,2026-01-14,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,7,623,20,3488.8,838.2,New,26,Cash,3.8
+B1399,2026-03-26,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,7,491,5,3265.15,361.25,New,57,Cash,4.2
+B1400,2026-01-09,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,5,254,5,1206.5,210.12,New,29,UPI,4.6
+B1401,2026-06-25,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,3,203,0,609,65.33,Returning,54,Cash,3.5
+B1402,2026-04-09,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,1,355,10,319.5,60.52,Returning,47,Cash,3.8
+B1403,2026-04-01,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,1,62,20,49.6,7.81,Returning,16,Credit Card,4.5
+B1404,2026-06-07,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,2,256,20,409.6,99.18,Returning,35,Wallet,4.6
+B1405,2026-02-18,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,7,311,5,2068.15,418.94,Returning,44,UPI,3.1
+B1406,2026-04-03,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,7,52,15,309.4,40.37,Returning,20,Cash,4.5
+B1407,2026-02-13,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,1,699,10,629.1,69.98,Returning,11,Wallet,4.8
+B1408,2026-03-06,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,4,89,20,284.8,69.62,Returning,57,Credit Card,4.9
+B1409,2026-03-31,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,4,545,20,1744,341.19,Returning,11,Wallet,4.3
+B1410,2026-05-27,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,4,213,5,809.4,111.3,Returning,59,Credit Card,3.1
+B1411,2026-02-05,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,4,636,5,2416.8,274.09,Returning,59,Cash,4.8
+B1412,2026-01-19,Delhi,Delhi,Dairy,Dairy,Milk,Amul,4,260,5,988,193.52,Returning,17,Cash,4.9
+B1413,2026-02-02,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,4,299,5,1136.2,278.17,Returning,49,Cash,4.1
+B1414,2026-04-05,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,2,455,15,773.5,128.22,Returning,52,Credit Card,4.6
+B1415,2026-05-24,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,5,331,5,1572.25,321.92,Returning,42,Wallet,3.2
+B1416,2026-04-08,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,8,122,0,976,123.73,New,50,Cash,4.8
+B1417,2026-02-07,Mumbai,Maharashtra,Fruits,Fruits,Apple,Fresh,2,546,15,928.2,142.06,New,55,Cash,4.9
+B1418,2026-03-04,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,6,152,10,820.8,165.59,New,12,Wallet,4.6
+B1419,2026-02-13,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,6,77,5,438.9,109.04,New,22,Wallet,3.8
+B1420,2026-06-24,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,2,531,0,1062,214.07,New,22,Wallet,5
+B1421,2026-03-03,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,1,166,10,149.4,15.32,Returning,38,Cash,3.5
+B1422,2026-03-31,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,6,484,20,2323.2,258.32,New,56,Wallet,3.3
+B1423,2026-01-19,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,2,595,10,1071,109.97,New,40,Credit Card,4.3
+B1424,2026-05-11,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,4,752,15,2556.8,303.71,New,18,Wallet,3.4
+B1425,2026-02-25,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,4,102,15,346.8,49.88,New,25,Cash,4.5
+B1426,2026-01-22,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,3,114,15,290.7,66.14,New,10,Cash,3.6
+B1427,2026-02-15,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,1,334,15,283.9,33.12,Returning,40,Cash,4.3
+B1428,2026-04-07,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,2,592,10,1065.6,184.21,New,19,Cash,3
+B1429,2026-05-24,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,6,664,20,3187.2,679.34,Returning,57,UPI,4.2
+B1430,2026-06-27,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,1,91,5,86.45,11.83,Returning,58,UPI,3.8
+B1431,2026-06-16,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,5,433,10,1948.5,478.99,Returning,48,Cash,3.7
+B1432,2026-01-18,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,3,455,5,1296.75,153.23,New,26,UPI,3.7
+B1433,2026-02-13,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,3,670,10,1809,265.83,Returning,44,Wallet,4.1
+B1434,2026-01-18,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,7,639,15,3802.05,597.17,Returning,56,Wallet,4.7
+B1435,2026-03-27,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,1,523,5,496.85,72.34,New,17,Cash,3.7
+B1436,2026-05-16,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,7,175,10,1102.5,127.77,Returning,29,Cash,3.6
+B1437,2026-04-13,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,3,309,20,741.6,108.09,Returning,58,Credit Card,3.6
+B1438,2026-04-23,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,1,456,20,364.8,44.01,Returning,26,Credit Card,3.8
+B1439,2026-05-08,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,1,709,20,567.2,102.99,Returning,47,Cash,4.5
+B1440,2026-06-15,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,4,715,0,2860,627.83,Returning,31,Wallet,4.7
+B1441,2026-04-23,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,1,445,15,378.25,54.34,Returning,43,Credit Card,3.4
+B1442,2026-06-11,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,7,432,20,2419.2,350.68,New,60,Cash,3.2
+B1443,2026-04-28,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,7,564,15,3355.8,307.01,New,46,Credit Card,4.5
+B1444,2026-03-09,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,1,119,20,95.2,19.6,New,60,Credit Card,4.2
+B1445,2026-05-14,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,1,615,15,522.75,91.42,New,10,Wallet,3.5
+B1446,2026-03-23,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,8,488,0,3904,329.88,New,59,UPI,3.4
+B1447,2026-06-05,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,8,684,10,4924.8,855.98,Returning,29,Wallet,3.9
+B1448,2026-04-04,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,7,131,5,871.15,93.79,Returning,22,Credit Card,3.3
+B1449,2026-05-31,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,6,467,20,2241.6,357.05,Returning,46,Cash,4.2
+B1450,2026-06-01,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,6,502,5,2861.4,569.24,New,37,Credit Card,3.6
+B1451,2026-03-27,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,3,644,20,1545.6,195.6,New,41,Credit Card,4.9
+B1452,2026-03-01,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,8,340,5,2584,228.13,New,19,UPI,4.1
+B1453,2026-06-04,Mumbai,Maharashtra,Fruits,Fruits,Apple,Fresh,7,653,10,4113.9,644.78,Returning,51,UPI,4.1
+B1454,2026-03-30,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,7,733,0,5131,714.93,Returning,22,Wallet,3.5
+B1455,2026-02-21,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,2,274,20,438.4,41.92,Returning,51,Cash,4.7
+B1456,2026-03-16,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,6,217,5,1236.9,305.49,New,24,Cash,4.8
+B1457,2026-04-29,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,2,146,10,262.8,33.17,Returning,43,UPI,4.3
+B1458,2026-06-27,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,4,568,5,2158.4,173.36,New,51,UPI,3.5
+B1459,2026-03-18,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,7,100,15,595,102.59,Returning,50,UPI,3.8
+B1460,2026-01-08,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,2,642,15,1091.4,215.44,New,49,Cash,3.4
+B1461,2026-03-24,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,3,289,5,823.65,103.15,Returning,38,Wallet,3.3
+B1462,2026-01-19,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,5,84,15,357,57.36,Returning,13,Cash,3.2
+B1463,2026-06-12,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,7,224,15,1332.8,282.13,Returning,56,Cash,3.3
+B1464,2026-03-08,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,2,420,0,840,178.09,Returning,11,Cash,3.2
+B1465,2026-05-10,Delhi,Delhi,Beverages,Beverages,Juice,Real,6,587,15,2993.7,444.06,New,29,Cash,4.2
+B1466,2026-06-07,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,7,329,10,2072.7,375.62,New,14,Credit Card,4.7
+B1467,2026-05-07,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,7,594,15,3534.3,391.59,Returning,41,UPI,4.6
+B1468,2026-05-07,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,8,138,10,993.6,219.97,Returning,38,Cash,4.5
+B1469,2026-02-12,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,4,594,10,2138.4,294.77,Returning,17,UPI,4.5
+B1470,2026-02-24,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,6,454,15,2315.4,257.72,New,12,UPI,4.3
+B1471,2026-02-24,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,8,163,5,1238.8,298.49,Returning,13,Cash,3.5
+B1472,2026-03-10,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,3,746,5,2126.1,481.52,Returning,46,Wallet,5
+B1473,2026-01-29,Mumbai,Maharashtra,Fruits,Fruits,Apple,Fresh,3,460,0,1380,193.47,Returning,48,Wallet,3.1
+B1474,2026-03-04,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,2,208,0,416,88.41,New,36,Credit Card,4.2
+B1475,2026-05-20,Pune,Maharashtra,Beverages,Beverages,Juice,Real,7,127,10,800.1,186.19,Returning,30,Credit Card,4
+B1476,2026-02-28,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,3,693,15,1767.15,433.82,Returning,33,Wallet,4.1
+B1477,2026-03-23,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,7,711,20,3981.6,908.91,New,10,Credit Card,3.3
+B1478,2026-04-05,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,8,744,15,5059.2,457.09,Returning,48,Credit Card,4.8
+B1479,2026-03-20,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,6,171,10,923.4,134.6,New,26,Cash,3.9
+B1480,2026-05-27,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,3,71,20,170.4,36.27,Returning,16,Credit Card,3.8
+B1481,2026-05-12,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,6,405,20,1944,259.7,Returning,54,UPI,4.3
+B1482,2026-06-11,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,5,102,20,408,66.85,New,15,Credit Card,4.6
+B1483,2026-01-14,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,2,455,5,864.5,209.57,New,14,Cash,3.7
+B1484,2026-02-10,Delhi,Delhi,Dairy,Dairy,Milk,Amul,7,202,0,1414,117.87,New,15,Credit Card,3.2
+B1485,2026-01-21,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,3,436,0,1308,270.43,New,18,Wallet,3.3
+B1486,2026-04-11,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,1,518,5,492.1,115.29,New,38,UPI,4.6
+B1487,2026-06-17,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,3,107,15,272.85,53.7,New,24,Credit Card,3.5
+B1488,2026-01-28,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,6,735,20,3528,837.5,Returning,56,UPI,4.8
+B1489,2026-06-25,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,6,241,10,1301.4,115.42,New,11,Cash,3.3
+B1490,2026-01-30,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,6,51,20,244.8,47.43,New,13,Cash,3.9
+B1491,2026-06-12,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,7,630,20,3528,493.92,Returning,10,Wallet,3.5
+B1492,2026-03-02,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,8,374,20,2393.6,387.44,Returning,49,Credit Card,3.5
+B1493,2026-01-15,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,5,403,10,1813.5,199.85,New,46,UPI,4.5
+B1494,2026-02-13,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,6,277,5,1578.9,259.93,New,49,Wallet,3.4
+B1495,2026-02-05,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,5,53,5,251.75,25.58,New,14,Wallet,3.3
+B1496,2026-06-13,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,6,495,20,2376,428.46,New,14,Credit Card,4
+B1497,2026-06-03,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,4,340,5,1292,233.58,Returning,45,Cash,4.2
+B1498,2026-06-17,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,7,177,15,1053.15,245.59,New,29,Cash,4.4
+B1499,2026-01-14,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,3,97,0,291,32,New,50,UPI,3.5
+B1500,2026-06-22,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,5,744,20,2976,585.79,Returning,13,Wallet,3.3
+B1501,2026-01-13,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,4,468,15,1591.2,153.75,New,29,Wallet,4.8
+B1502,2026-04-27,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,2,771,0,1542,161.04,New,52,Cash,3.4
+B1503,2026-03-19,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,8,735,15,4998,698.94,Returning,30,Cash,3.1
+B1504,2026-03-30,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,4,162,10,583.2,141.26,Returning,16,Wallet,3.7
+B1505,2026-05-23,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,3,51,20,122.4,27.59,Returning,48,Credit Card,5
+B1506,2026-06-27,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,8,756,20,4838.4,918.93,Returning,20,Cash,4.1
+B1507,2026-01-07,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,3,693,20,1663.2,353.04,Returning,52,UPI,4.2
+B1508,2026-02-16,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,4,690,10,2484,501.71,Returning,41,Wallet,3.4
+B1509,2026-01-15,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,1,794,0,794,128.46,New,29,Credit Card,3.7
+B1510,2026-03-24,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,2,58,10,104.4,16.35,Returning,28,Wallet,3.5
+B1511,2026-03-30,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,7,749,10,4718.7,553.61,New,56,Credit Card,3.2
+B1512,2026-03-03,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,3,611,10,1649.7,283.56,Returning,56,Cash,3.2
+B1513,2026-02-16,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,8,443,0,3544,303.84,Returning,24,Credit Card,4.5
+B1514,2026-03-09,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,4,792,10,2851.2,322.46,New,32,Wallet,3.9
+B1515,2026-03-18,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,5,662,20,2648,457.29,Returning,31,UPI,3.5
+B1516,2026-02-01,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,5,779,20,3116,506.18,New,51,UPI,3.8
+B1517,2026-02-11,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,7,388,20,2172.8,459.1,Returning,46,Cash,4.4
+B1518,2026-06-24,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,8,169,15,1149.2,220.06,Returning,58,UPI,3.9
+B1519,2026-04-20,Delhi,Delhi,Dairy,Dairy,Milk,Amul,3,30,5,85.5,16.69,New,41,Credit Card,3
+B1520,2026-01-15,Delhi,Delhi,Beverages,Beverages,Juice,Real,8,244,0,1952,324.96,New,23,Credit Card,4.7
+B1521,2026-02-02,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,8,344,15,2339.2,537.4,New,48,UPI,3.9
+B1522,2026-02-25,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,6,202,10,1090.8,102.05,Returning,36,Wallet,4.2
+B1523,2026-06-10,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,2,366,10,658.8,99.01,New,46,UPI,3
+B1524,2026-05-23,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,4,310,15,1054,158.16,Returning,19,Credit Card,4.3
+B1525,2026-03-24,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,1,64,0,64,12.92,New,48,UPI,4.8
+B1526,2026-01-13,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,4,462,10,1663.2,411.64,New,10,Wallet,4.9
+B1527,2026-03-23,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,1,683,20,546.4,104.53,New,15,Credit Card,3
+B1528,2026-03-13,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,2,343,15,583.1,103.9,New,41,Wallet,4.5
+B1529,2026-04-30,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,7,145,20,812,159.1,New,38,Wallet,4.1
+B1530,2026-04-16,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,3,371,0,1113,99.35,New,60,Credit Card,3.6
+B1531,2026-02-14,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,2,377,0,754,103.4,Returning,19,Cash,3.1
+B1532,2026-03-31,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,5,397,5,1885.75,248.44,Returning,56,Wallet,3.7
+B1533,2026-03-13,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,6,356,0,2136,256.18,Returning,34,Wallet,4.3
+B1534,2026-04-19,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,2,569,5,1081.1,164.07,New,40,Wallet,3.8
+B1535,2026-04-29,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,7,496,5,3298.4,558.23,Returning,38,Wallet,3.3
+B1536,2026-02-24,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,8,264,5,2006.4,307.09,New,58,Cash,4.5
+B1537,2026-04-03,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,7,77,0,539,105.77,New,18,UPI,3.9
+B1538,2026-04-23,Delhi,Delhi,Dairy,Dairy,Milk,Amul,7,792,15,4712.4,944.62,Returning,14,UPI,3.9
+B1539,2026-03-06,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,1,438,15,372.3,36.43,New,54,Cash,3.4
+B1540,2026-01-03,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,3,490,20,1176,188.27,Returning,23,UPI,3.6
+B1541,2026-06-26,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,1,668,20,534.4,76.66,New,44,Credit Card,3.2
+B1542,2026-02-28,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,1,319,20,255.2,44.18,New,47,Cash,3
+B1543,2026-01-09,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,4,349,5,1326.2,285.13,New,19,Wallet,4.1
+B1544,2026-05-14,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,2,227,15,385.9,42.39,New,32,Cash,4.5
+B1545,2026-01-15,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,1,684,20,547.2,71.54,New,37,Wallet,4.8
+B1546,2026-05-25,Delhi,Delhi,Dairy,Dairy,Milk,Amul,6,488,10,2635.2,437.54,Returning,58,Cash,4.9
+B1547,2026-01-12,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,1,694,0,694,95.03,Returning,47,UPI,4.4
+B1548,2026-01-23,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,1,77,10,69.3,7.46,Returning,59,Wallet,4.1
+B1549,2026-03-01,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,8,545,10,3924,334.1,New,42,Credit Card,3.4
+B1550,2026-04-10,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,7,407,15,2421.65,195.38,Returning,22,UPI,4.1
+B1551,2026-01-10,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,1,475,10,427.5,79.21,Returning,21,Wallet,3.7
+B1552,2026-04-25,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,7,311,0,2177,277.52,New,56,Wallet,3.1
+B1553,2026-03-07,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,1,574,5,545.3,106.88,New,21,Credit Card,3.1
+B1554,2026-03-03,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,7,385,0,2695,574.17,New,52,UPI,3.1
+B1555,2026-01-12,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,8,155,20,992,93.21,Returning,23,Credit Card,4.6
+B1556,2026-02-21,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,7,445,5,2959.25,310.92,Returning,29,Cash,3.8
+B1557,2026-04-09,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,5,146,0,730,109.03,New,12,UPI,3.8
+B1558,2026-03-14,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,1,565,15,480.25,74.28,Returning,39,Cash,3.5
+B1559,2026-06-17,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,7,211,10,1329.3,278.45,New,29,UPI,3
+B1560,2026-05-09,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,5,53,20,212,51.84,New,22,UPI,3.1
+B1561,2026-04-25,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,6,656,0,3936,373.33,Returning,10,Credit Card,3.9
+B1562,2026-01-14,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,3,347,0,1041,244.78,New,48,Wallet,3.7
+B1563,2026-04-09,Pune,Maharashtra,Beverages,Beverages,Juice,Real,8,608,5,4620.8,1021.72,Returning,13,Wallet,4.3
+B1564,2026-06-09,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,6,37,20,177.6,29.24,Returning,50,Cash,3.2
+B1565,2026-03-20,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,4,261,0,1044,175.23,New,36,Credit Card,4.4
+B1566,2026-01-06,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,7,356,5,2367.4,279.9,Returning,45,Credit Card,3.3
+B1567,2026-03-12,Delhi,Delhi,Beverages,Beverages,Juice,Real,2,655,15,1113.5,200.36,Returning,13,UPI,4.2
+B1568,2026-03-27,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,8,551,20,3526.4,813.11,Returning,42,Credit Card,4.4
+B1569,2026-03-03,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,1,627,20,501.6,56.13,New,53,UPI,3.4
+B1570,2026-01-28,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,1,764,5,725.8,89.76,New,44,Credit Card,3.7
+B1571,2026-04-22,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,2,379,10,682.2,152.39,New,16,Credit Card,4.2
+B1572,2026-02-24,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,2,538,20,860.8,97.57,New,28,Credit Card,4.7
+B1573,2026-06-01,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,1,58,0,58,7.35,Returning,46,Wallet,3.7
+B1574,2026-03-20,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,1,317,0,317,38.33,Returning,21,UPI,4.2
+B1575,2026-03-19,Delhi,Delhi,Beverages,Beverages,Juice,Real,4,399,5,1516.2,227.94,Returning,35,Cash,3.1
+B1576,2026-03-04,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,4,729,10,2624.4,416.44,New,48,Credit Card,3.6
+B1577,2026-05-30,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,1,51,10,45.9,5.47,New,59,Wallet,3.9
+B1578,2026-01-31,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,7,171,0,1197,219.78,New,58,Cash,4.2
+B1579,2026-01-30,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,2,741,15,1259.7,290.68,New,16,Wallet,4.8
+B1580,2026-06-17,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,7,349,5,2320.85,311.42,New,56,Credit Card,4.5
+B1581,2026-03-28,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,7,297,5,1975.05,408.08,New,42,Wallet,3.2
+B1582,2026-02-25,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,4,279,10,1004.4,185.09,Returning,44,Credit Card,3.7
+B1583,2026-01-09,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,5,79,0,395,81.85,New,47,Wallet,3.8
+B1584,2026-04-24,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,8,617,10,4442.4,486.72,Returning,42,Wallet,4.6
+B1585,2026-01-22,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,4,278,10,1000.8,116.88,New,53,Wallet,5
+B1586,2026-06-03,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,5,42,10,189,43.35,New,18,Wallet,3.3
+B1587,2026-04-12,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,3,605,10,1633.5,257.35,New,19,Wallet,4.7
+B1588,2026-02-04,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,3,375,15,956.25,216.31,Returning,24,Cash,3.6
+B1589,2026-01-10,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,3,506,0,1518,265.86,New,30,UPI,3.2
+B1590,2026-05-24,Jaipur,Rajasthan,Fruits,Fruits,Apple,Fresh,3,311,15,793.05,156.93,Returning,36,Cash,3.3
+B1591,2026-06-04,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,1,770,5,731.5,95.3,Returning,48,Credit Card,3.5
+B1592,2026-04-04,Pune,Maharashtra,Beverages,Beverages,Juice,Real,1,433,0,433,37.41,New,53,Credit Card,4.2
+B1593,2026-06-15,Jaipur,Rajasthan,Fruits,Fruits,Apple,Fresh,6,549,15,2799.9,626.55,New,48,Wallet,3.9
+B1594,2026-01-02,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,5,303,15,1287.75,291.72,Returning,22,Credit Card,4.3
+B1595,2026-06-01,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,4,373,0,1492,153.98,Returning,55,Wallet,4.3
+B1596,2026-01-25,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,1,295,20,236,37.47,Returning,16,Wallet,4.3
+B1597,2026-05-23,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,5,450,5,2137.5,265.46,Returning,41,Credit Card,4.4
+B1598,2026-04-25,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,4,423,15,1438.2,146.02,New,15,Cash,3.3
+B1599,2026-04-24,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,3,49,10,132.3,14.92,New,38,Wallet,3.3
+B1600,2026-04-21,Jaipur,Rajasthan,Fruits,Fruits,Apple,Fresh,5,408,5,1938,369.99,Returning,30,Cash,3.1
+B1601,2026-06-19,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,1,501,20,400.8,34.26,New,24,Wallet,4.7
+B1602,2026-06-14,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,3,617,0,1851,319.32,New,18,UPI,4.9
+B1603,2026-04-27,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,8,393,20,2515.2,329.88,Returning,18,Wallet,3.5
+B1604,2026-06-06,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,1,255,15,216.75,43.36,Returning,26,Cash,3.9
+B1605,2026-05-08,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,2,794,0,1588,345.11,Returning,36,UPI,4.4
+B1606,2026-03-06,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,3,243,15,619.65,150.77,New,24,Cash,4.2
+B1607,2026-05-17,Delhi,Delhi,Dairy,Dairy,Milk,Amul,7,284,5,1888.6,394.17,New,59,UPI,5
+B1608,2026-05-15,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,5,237,15,1007.25,85.4,Returning,55,Cash,3.8
+B1609,2026-05-18,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,4,482,0,1928,192.8,Returning,16,Credit Card,4.7
+B1610,2026-04-16,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,7,71,15,422.45,74.73,Returning,51,UPI,4.5
+B1611,2026-04-03,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,8,346,15,2352.8,546.22,Returning,24,Wallet,4.1
+B1612,2026-05-20,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,7,263,15,1564.85,250.1,New,18,Cash,4
+B1613,2026-01-09,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,2,307,5,583.3,130.48,New,23,UPI,4.7
+B1614,2026-03-15,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,7,481,5,3198.65,380.15,New,17,Credit Card,4.1
+B1615,2026-05-08,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,5,388,15,1649,387.96,Returning,60,Credit Card,3.6
+B1616,2026-01-05,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,8,419,20,2681.6,387.92,New,53,UPI,3.2
+B1617,2026-05-30,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,8,361,5,2743.6,546.8,Returning,45,Cash,4.6
+B1618,2026-05-02,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,3,313,5,892.05,182.25,Returning,59,UPI,4.1
+B1619,2026-04-09,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,5,113,10,508.5,48.62,Returning,41,Cash,4.2
+B1620,2026-01-23,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,6,590,0,3540,615.46,Returning,30,Cash,5
+B1621,2026-01-22,Delhi,Delhi,Beverages,Beverages,Juice,Real,5,125,15,531.25,60.7,New,45,UPI,3
+B1622,2026-04-29,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,7,436,5,2899.4,637.98,New,14,UPI,3.8
+B1623,2026-06-02,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,7,41,15,243.95,47.75,Returning,11,Cash,3.4
+B1624,2026-03-11,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,3,611,20,1466.4,119.29,New,14,Cash,3.1
+B1625,2026-02-02,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,1,563,20,450.4,91.77,New,47,Credit Card,4.1
+B1626,2026-05-18,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,5,178,20,712,72.49,Returning,54,Wallet,4.8
+B1627,2026-01-11,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,7,798,20,4468.8,959.28,Returning,27,Credit Card,3.1
+B1628,2026-05-08,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,4,738,15,2509.2,455.78,New,40,Cash,3.1
+B1629,2026-01-30,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,1,506,15,430.1,53.84,New,38,Cash,4.4
+B1630,2026-02-18,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,1,788,0,788,98.91,Returning,25,Cash,4
+B1631,2026-06-07,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,7,95,15,565.25,92.29,Returning,14,Wallet,4.4
+B1632,2026-06-19,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,2,623,20,996.8,164.83,New,41,Cash,3.3
+B1633,2026-01-19,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,8,738,15,5018.4,757.59,New,45,Credit Card,4.2
+B1634,2026-06-21,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,5,490,5,2327.5,502.6,New,24,Cash,3.1
+B1635,2026-03-12,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,1,634,20,507.2,74.24,New,48,UPI,4.9
+B1636,2026-02-01,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,7,300,10,1890,264.78,Returning,33,UPI,3.5
+B1637,2026-06-06,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,2,699,0,1398,132.62,Returning,54,UPI,4.4
+B1638,2026-01-20,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,5,760,0,3800,642.97,New,36,Credit Card,4.4
+B1639,2026-01-14,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,3,780,15,1989,247.64,New,35,Wallet,4.9
+B1640,2026-05-21,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,2,358,5,680.2,124.53,Returning,41,Cash,4.8
+B1641,2026-04-25,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,8,502,15,3413.6,636.16,Returning,17,UPI,3.3
+B1642,2026-05-31,Delhi,Delhi,Dairy,Dairy,Milk,Amul,2,193,5,366.7,60.66,Returning,29,Cash,3.1
+B1643,2026-01-14,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,4,684,20,2188.8,459.06,New,27,Wallet,3.4
+B1644,2026-03-20,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,8,269,0,2152,218.87,New,11,Cash,3.6
+B1645,2026-05-19,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,2,753,5,1430.7,339.79,New,48,Cash,4
+B1646,2026-01-22,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,7,132,20,739.2,155.08,New,55,Wallet,4.8
+B1647,2026-05-06,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,3,756,0,2268,455.85,New,28,Credit Card,3.8
+B1648,2026-06-16,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,5,710,0,3550,372.92,Returning,13,Credit Card,4.2
+B1649,2026-01-13,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,2,607,5,1153.3,172.75,New,47,Credit Card,4.4
+B1650,2026-05-08,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,8,416,20,2662.4,451.32,Returning,17,Cash,4.3
+B1651,2026-04-05,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,1,229,20,183.2,30.66,Returning,14,Cash,4.3
+B1652,2026-01-12,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,8,37,15,251.6,49.46,New,54,Cash,4.1
+B1653,2026-02-24,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,2,571,20,913.6,146.35,Returning,46,Credit Card,4.3
+B1654,2026-06-28,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,2,255,5,484.5,103.17,Returning,37,Wallet,4.6
+B1655,2026-03-24,Pune,Maharashtra,Beverages,Beverages,Juice,Real,5,632,15,2686,357.72,New,39,UPI,3.1
+B1656,2026-02-01,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,8,499,20,3193.6,637.78,New,33,Credit Card,4.7
+B1657,2026-04-27,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,4,389,20,1244.8,282.31,Returning,10,Wallet,4.4
+B1658,2026-01-21,Pune,Maharashtra,Beverages,Beverages,Juice,Real,7,365,5,2427.25,235.94,New,28,Credit Card,4.4
+B1659,2026-03-31,Mumbai,Maharashtra,Fruits,Fruits,Apple,Fresh,4,122,0,488,79.26,Returning,59,Credit Card,3.5
+B1660,2026-01-08,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,8,266,20,1702.4,370.67,Returning,38,Wallet,4.1
+B1661,2026-04-05,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,8,634,0,5072,487.81,New,13,Cash,4.5
+B1662,2026-05-05,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,5,313,5,1486.75,271.84,Returning,27,UPI,4.3
+B1663,2026-04-19,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,8,117,5,889.2,133.99,Returning,54,Wallet,3.7
+B1664,2026-04-09,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,3,76,5,216.6,53.55,New,10,UPI,4.7
+B1665,2026-03-17,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,7,335,0,2345,219.91,New,56,Credit Card,3
+B1666,2026-02-23,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,1,445,20,356,42.69,Returning,26,Cash,3.2
+B1667,2026-05-30,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,7,131,0,917,142.92,New,43,Wallet,4
+B1668,2026-04-04,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,7,74,5,492.1,106.95,New,35,Credit Card,4.9
+B1669,2026-06-07,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,8,119,10,856.8,90.25,New,46,Credit Card,4.9
+B1670,2026-05-13,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,5,478,15,2031.5,473.6,Returning,15,Wallet,4.3
+B1671,2026-01-14,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,6,199,15,1014.9,225.89,Returning,18,Credit Card,4.7
+B1672,2026-05-23,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,8,31,5,235.6,35.72,New,57,Credit Card,4.8
+B1673,2026-03-08,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,1,558,5,530.1,124.11,New,21,Wallet,3
+B1674,2026-05-17,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,7,414,0,2898,641.39,Returning,27,Cash,4.5
+B1675,2026-01-01,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,7,310,0,2170,179.77,New,45,Wallet,3.2
+B1676,2026-06-14,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,8,183,0,1464,137.98,New,57,Credit Card,5
+B1677,2026-02-20,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,6,109,0,654,150.07,Returning,12,Wallet,4.5
+B1678,2026-02-28,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,2,658,10,1184.4,141.51,New,45,Wallet,4.8
+B1679,2026-03-09,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,7,519,20,2906.4,680.51,New,47,Credit Card,4.8
+B1680,2026-03-31,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,5,671,10,3019.5,749.1,New,22,UPI,4.8
+B1681,2026-05-05,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,2,738,10,1328.4,326.79,New,16,Wallet,4.2
+B1682,2026-03-03,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,1,760,5,722,117.48,Returning,36,Wallet,3.1
+B1683,2026-01-08,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,4,184,20,588.8,113.47,Returning,48,UPI,3.7
+B1684,2026-06-20,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,6,518,10,2797.2,694.34,New,49,UPI,3.5
+B1685,2026-03-17,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,5,120,0,600,147.84,New,55,Cash,3.7
+B1686,2026-04-28,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,3,760,20,1824,435.87,Returning,14,UPI,4.2
+B1687,2026-03-17,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,6,310,10,1674,394.7,Returning,23,Cash,3.2
+B1688,2026-03-07,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,5,264,10,1188,169.01,Returning,52,Credit Card,3.4
+B1689,2026-06-06,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,3,403,0,1209,167.15,New,28,Cash,4.9
+B1690,2026-06-27,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,5,587,10,2641.5,320.99,Returning,36,UPI,4.6
+B1691,2026-04-28,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,4,530,20,1696,174.52,Returning,18,Credit Card,4.1
+B1692,2026-04-06,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,6,211,10,1139.4,165.34,New,58,UPI,4.5
+B1693,2026-04-06,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,4,623,0,2492,460.56,Returning,45,Cash,3.9
+B1694,2026-04-19,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,7,193,0,1351,207.43,New,24,Cash,3.6
+B1695,2026-01-22,Delhi,Delhi,Dairy,Dairy,Milk,Amul,4,193,10,694.8,140.79,New,46,Wallet,4.9
+B1696,2026-02-27,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,7,612,20,3427.2,499.74,New,34,Credit Card,3.4
+B1697,2026-06-17,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,7,584,5,3883.6,466.77,Returning,32,Cash,4.8
+B1698,2026-05-18,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,3,594,20,1425.6,177.47,Returning,47,UPI,4
+B1699,2026-05-23,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,8,551,0,4408,601.18,New,43,Cash,3.9
+B1700,2026-05-13,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,6,234,10,1263.6,195.14,Returning,36,UPI,3.1
+B1701,2026-04-16,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,6,191,5,1088.7,189.79,New,44,UPI,3.3
+B1702,2026-03-20,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,1,686,10,617.4,126.6,New,13,Cash,4.4
+B1703,2026-05-18,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,8,670,15,4556,913.14,New,17,Cash,3.3
+B1704,2026-02-24,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,1,529,15,449.65,77.67,New,10,Cash,3.8
+B1705,2026-02-19,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,4,536,5,2036.8,176.85,New,45,Credit Card,3.7
+B1706,2026-06-24,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,5,589,5,2797.75,571.29,New,39,Cash,3.1
+B1707,2026-01-17,Delhi,Delhi,Dairy,Dairy,Milk,Amul,5,547,10,2461.5,206.53,Returning,37,Credit Card,4.7
+B1708,2026-04-23,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,8,376,10,2707.2,594.99,Returning,10,Wallet,4
+B1709,2026-06-14,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,4,753,0,3012,242.35,Returning,41,UPI,3.3
+B1710,2026-02-28,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,5,562,15,2388.5,585.52,New,46,Cash,3.1
+B1711,2026-02-23,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,8,648,10,4665.6,432.39,New,53,UPI,4.9
+B1712,2026-06-07,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,8,128,5,972.8,142.36,Returning,42,UPI,3.8
+B1713,2026-02-22,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,1,22,15,18.7,1.54,New,33,Cash,4
+B1714,2026-05-07,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,7,610,15,3629.5,337.69,Returning,28,UPI,4.6
+B1715,2026-05-14,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,3,606,15,1545.3,319.39,New,27,Cash,3.5
+B1716,2026-05-04,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,8,788,0,6304,1180.84,New,11,Wallet,3.7
+B1717,2026-03-13,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,5,494,10,2223,345.09,Returning,25,Wallet,4.7
+B1718,2026-06-16,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,2,439,0,878,210.5,Returning,27,Wallet,4.6
+B1719,2026-02-21,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,1,305,0,305,74.08,Returning,32,UPI,3.4
+B1720,2026-02-23,Delhi,Delhi,Beverages,Beverages,Juice,Real,3,161,20,386.4,69.15,Returning,59,Cash,4
+B1721,2026-01-28,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,5,93,10,418.5,39.5,New,41,Wallet,3.7
+B1722,2026-03-23,Delhi,Delhi,Dairy,Dairy,Milk,Amul,5,670,5,3182.5,489.42,New,11,Credit Card,4
+B1723,2026-05-07,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,8,115,0,920,158.78,New,51,Wallet,4.1
+B1724,2026-05-22,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,6,39,15,198.9,17.6,New,19,Cash,3.7
+B1725,2026-01-28,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,3,505,0,1515,166.72,New,48,UPI,3.2
+B1726,2026-05-15,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,1,742,10,667.8,88.27,New,11,UPI,3.3
+B1727,2026-03-18,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,8,269,5,2044.4,282.78,New,55,Wallet,4.8
+B1728,2026-05-25,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,5,30,0,150,26.38,Returning,57,UPI,4.9
+B1729,2026-02-24,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,3,89,20,213.6,36.77,Returning,28,UPI,4.3
+B1730,2026-06-20,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,1,617,20,493.6,89.06,Returning,35,Credit Card,3.1
+B1731,2026-05-30,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,7,628,10,3956.4,979.32,Returning,48,UPI,4.5
+B1732,2026-05-04,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,3,641,10,1730.7,427.59,Returning,42,Credit Card,3
+B1733,2026-06-10,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,6,272,15,1387.2,178.26,Returning,55,Credit Card,4.9
+B1734,2026-03-13,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,2,597,15,1014.9,231.44,Returning,33,UPI,4.7
+B1735,2026-04-21,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,4,594,5,2257.2,559.55,Returning,29,Wallet,4.7
+B1736,2026-05-13,Delhi,Delhi,Beverages,Beverages,Juice,Real,3,87,0,261,41.39,New,23,UPI,4.8
+B1737,2026-05-26,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,2,354,10,637.2,126,New,25,UPI,3.9
+B1738,2026-03-11,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,2,582,5,1105.8,223.68,Returning,51,Credit Card,3.5
+B1739,2026-06-17,Jaipur,Rajasthan,Fruits,Fruits,Apple,Fresh,2,760,15,1292,183.62,New,47,Credit Card,3.6
+B1740,2026-03-14,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,1,618,0,618,153.31,Returning,60,Credit Card,4.3
+B1741,2026-03-07,Delhi,Delhi,Dairy,Dairy,Milk,Amul,7,120,5,798,174.43,New,51,Cash,3.7
+B1742,2026-03-21,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,2,305,0,610,92.92,New,21,Wallet,3.7
+B1743,2026-02-26,Delhi,Delhi,Beverages,Beverages,Juice,Real,5,264,5,1254,187.32,Returning,57,Cash,4.1
+B1744,2026-03-25,Jaipur,Rajasthan,Fruits,Fruits,Apple,Fresh,4,577,15,1961.8,323.39,New,18,Cash,4.5
+B1745,2026-03-29,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,2,722,15,1227.4,242.85,New,45,Cash,3.4
+B1746,2026-05-28,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,7,456,20,2553.6,325.36,Returning,52,Wallet,5
+B1747,2026-02-22,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,3,712,15,1815.6,403.16,Returning,58,Cash,4.6
+B1748,2026-02-21,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,2,688,15,1169.6,253.39,New,35,Wallet,4.7
+B1749,2026-01-29,Jaipur,Rajasthan,Fruits,Fruits,Apple,Fresh,6,47,20,225.6,48.11,New,29,Wallet,3.6
+B1750,2026-03-05,Pune,Maharashtra,Beverages,Beverages,Juice,Real,3,721,5,2054.85,439.2,New,17,UPI,3.6
+B1751,2026-02-13,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,5,550,20,2200,344.37,New,60,Wallet,3.2
+B1752,2026-01-19,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,2,528,5,1003.2,81.59,New,29,Cash,3.1
+B1753,2026-04-24,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,5,79,20,316,64.13,Returning,18,UPI,4.9
+B1754,2026-06-14,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,2,156,20,249.6,51.95,Returning,33,Credit Card,3
+B1755,2026-03-31,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,3,121,10,326.7,26.47,Returning,33,Wallet,3.4
+B1756,2026-01-27,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,7,371,20,2077.6,388.66,New,52,Credit Card,3.3
+B1757,2026-06-22,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,2,633,20,1012.8,123.73,New,55,UPI,3
+B1758,2026-04-13,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,1,192,20,153.6,35.96,Returning,32,Credit Card,4.2
+B1759,2026-03-10,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,7,79,20,442.4,108.12,Returning,27,Credit Card,4.7
+B1760,2026-06-09,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,2,678,0,1356,116.96,Returning,19,UPI,4.6
+B1761,2026-02-06,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,4,192,5,729.6,129.14,New,47,Cash,3.6
+B1762,2026-04-17,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,1,731,10,657.9,86.73,New,25,Credit Card,4.7
+B1763,2026-04-18,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,3,400,5,1140,176.3,Returning,56,UPI,3.1
+B1764,2026-04-11,Bengaluru,Karnataka,Dairy,Dairy,Curd,Mother Dairy,3,245,0,735,161.42,New,40,Wallet,4.1
+B1765,2026-06-20,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,3,274,20,657.6,90.44,New,38,Wallet,4.2
+B1766,2026-02-20,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,6,217,0,1302,107.48,New,21,Credit Card,4.4
+B1767,2026-05-27,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,3,193,5,550.05,84.87,Returning,10,UPI,4.1
+B1768,2026-05-09,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,4,241,15,819.4,188.58,New,14,Wallet,4.8
+B1769,2026-05-25,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,8,61,15,414.8,49.36,New,57,Credit Card,3.3
+B1770,2026-05-06,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,4,613,0,2452,424.83,New,13,Cash,3.6
+B1771,2026-03-22,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,1,450,0,450,82.38,Returning,40,UPI,4.1
+B1772,2026-02-15,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,7,247,5,1642.55,208.82,New,17,Wallet,3.1
+B1773,2026-06-07,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,6,562,0,3372,352.1,Returning,13,Wallet,4
+B1774,2026-01-29,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,4,115,10,414,80,New,16,Credit Card,4.5
+B1775,2026-01-31,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,3,673,5,1918.05,202.4,New,23,Wallet,4.9
+B1776,2026-04-30,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,3,785,10,2119.5,528.97,New,26,Credit Card,4.3
+B1777,2026-01-22,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,1,275,10,247.5,35.62,Returning,26,UPI,4.1
+B1778,2026-05-30,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,2,35,10,63,12.41,New,42,Cash,3
+B1779,2026-02-07,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,4,684,20,2188.8,513.58,New,43,Credit Card,3.7
+B1780,2026-03-07,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,7,753,0,5271,943.43,New,58,Wallet,3.5
+B1781,2026-02-08,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,7,455,0,3185,440.68,Returning,58,Wallet,4.4
+B1782,2026-02-23,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,4,776,5,2948.8,549.63,Returning,50,Wallet,4.6
+B1783,2026-06-03,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,3,267,10,720.9,79.61,Returning,22,Cash,3.9
+B1784,2026-05-15,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,4,752,0,3008,723.16,Returning,37,Cash,3.4
+B1785,2026-06-07,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,4,579,10,2084.4,321,New,47,Cash,4.7
+B1786,2026-06-27,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,1,646,20,516.8,74.44,Returning,15,Cash,3.6
+B1787,2026-06-20,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,6,522,5,2975.4,598,Returning,15,Wallet,4.6
+B1788,2026-03-04,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,5,280,10,1260,288.72,New,28,Cash,4.7
+B1789,2026-04-19,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,1,347,20,277.6,41.18,Returning,48,UPI,4.7
+B1790,2026-03-04,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,4,535,10,1926,290.15,Returning,23,Cash,4.4
+B1791,2026-04-01,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,8,464,20,2969.6,252,Returning,21,UPI,3.8
+B1792,2026-06-01,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,4,791,10,2847.6,619.18,New,29,UPI,3.5
+B1793,2026-03-13,Delhi,Delhi,Dairy,Dairy,Milk,Amul,7,482,0,3374,767.3,New,47,Credit Card,3.1
+B1794,2026-05-16,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,3,646,20,1550.4,331.72,Returning,21,Cash,3.5
+B1795,2026-02-08,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,8,781,10,5623.2,523.36,New,28,UPI,4.9
+B1796,2026-05-11,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,1,660,0,660,160.34,New,12,Wallet,4.2
+B1797,2026-05-22,Delhi,Delhi,Beverages,Beverages,Juice,Real,4,357,5,1356.6,161.91,Returning,51,UPI,4.7
+B1798,2026-05-30,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,4,314,15,1067.6,120.24,Returning,54,Credit Card,4
+B1799,2026-01-01,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,1,507,20,405.6,74.85,Returning,33,Cash,4.2
+B1800,2026-06-01,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,2,251,15,426.7,68.37,Returning,51,Cash,3.1
+B1801,2026-05-21,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,2,23,10,41.4,4.51,Returning,13,Wallet,3.6
+B1802,2026-04-28,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,4,498,20,1593.6,157.22,New,42,Wallet,4.8
+B1803,2026-03-18,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,5,619,0,3095,451.54,New,51,Cash,3.3
+B1804,2026-05-29,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,6,705,20,3384,400.41,New,11,Credit Card,4.3
+B1805,2026-02-23,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,2,595,0,1190,274.4,Returning,37,Credit Card,3.4
+B1806,2026-03-18,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,8,620,0,4960,856.8,New,22,UPI,3.1
+B1807,2026-03-05,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,4,647,10,2329.2,406.42,New,32,UPI,3.1
+B1808,2026-06-01,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,8,398,20,2547.2,630.86,New,11,Wallet,3.7
+B1809,2026-01-17,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,6,76,5,433.2,60.87,New,46,Wallet,3.1
+B1810,2026-04-26,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,5,535,20,2140,368.49,Returning,33,Wallet,3.3
+B1811,2026-04-15,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,2,559,5,1062.1,188.41,Returning,51,Credit Card,4
+B1812,2026-01-26,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,2,417,10,750.6,113.89,New,16,Cash,4.3
+B1813,2026-04-29,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,5,39,0,195,31.66,New,32,UPI,4.9
+B1814,2026-03-27,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,8,438,15,2978.4,695.86,New,34,UPI,3.3
+B1815,2026-02-06,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,6,672,10,3628.8,389.64,New,48,Cash,4.3
+B1816,2026-05-25,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,5,105,15,446.25,54.93,Returning,57,Credit Card,4
+B1817,2026-06-21,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,1,613,10,551.7,117.25,Returning,51,Cash,3.6
+B1818,2026-05-08,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,7,186,20,1041.6,96.51,New,29,Wallet,4.7
+B1819,2026-02-22,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,5,26,5,123.5,14.77,Returning,36,Wallet,4.3
+B1820,2026-06-03,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,4,783,5,2975.4,390.87,Returning,11,Cash,4.2
+B1821,2026-04-23,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,3,600,5,1710,153.88,New,33,Credit Card,3.3
+B1822,2026-05-22,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,5,94,0,470,93.26,New,49,Wallet,4.6
+B1823,2026-04-29,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,5,752,0,3760,632.67,New,45,Credit Card,4.5
+B1824,2026-01-10,Delhi,Delhi,Beverages,Beverages,Juice,Real,6,781,5,4451.7,1088.35,New,13,UPI,4.4
+B1825,2026-06-17,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,8,773,20,4947.2,399.48,New,17,Wallet,3.1
+B1826,2026-02-27,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,8,744,0,5952,507.63,New,30,Cash,4.9
+B1827,2026-04-30,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,1,166,15,141.1,23.73,New,48,Cash,3.1
+B1828,2026-06-09,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,2,629,15,1069.3,207.51,Returning,11,UPI,3.2
+B1829,2026-06-07,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,5,338,10,1521,155.02,New,51,Cash,4.4
+B1830,2026-01-13,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,5,567,15,2409.75,590.82,Returning,11,Cash,3.3
+B1831,2026-04-09,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,2,36,15,61.2,14.06,Returning,33,UPI,3.6
+B1832,2026-05-07,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,5,228,15,969,121.6,Returning,42,UPI,3.7
+B1833,2026-01-03,Pune,Maharashtra,Snacks,Snacks,Chips,Lay's,6,366,5,2086.2,424.17,New,35,Credit Card,4.5
+B1834,2026-06-02,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,2,560,0,1120,198.05,Returning,15,Credit Card,4.9
+B1835,2026-03-20,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,2,175,15,297.5,58.82,New,56,Cash,3.8
+B1836,2026-02-28,Bengaluru,Karnataka,Dairy,Dairy,Curd,Mother Dairy,2,157,0,314,54.39,New,58,Cash,4.9
+B1837,2026-02-11,Ahmedabad,Gujarat,Grocery,Grocery,Atta,Aashirvaad,3,171,15,436.05,96.38,New,16,Wallet,4.5
+B1838,2026-03-10,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,1,281,15,238.85,56.43,Returning,50,Cash,4.7
+B1839,2026-03-08,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,6,433,0,2598,265.93,New,22,UPI,4.8
+B1840,2026-01-31,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,1,708,5,672.6,117.39,Returning,20,UPI,3
+B1841,2026-01-20,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,8,786,10,5659.2,1301.17,Returning,13,Credit Card,3.1
+B1842,2026-02-16,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,3,110,5,313.5,27.01,Returning,20,Credit Card,4.7
+B1843,2026-02-20,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,6,256,0,1536,270.65,Returning,43,Wallet,3.8
+B1844,2026-03-04,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,1,105,15,89.25,21.19,New,55,Credit Card,3.1
+B1845,2026-05-05,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,2,536,20,857.6,119.04,Returning,21,UPI,3.9
+B1846,2026-02-22,Bengaluru,Karnataka,Dairy,Dairy,Milk,Amul,4,238,15,809.2,102.19,Returning,14,UPI,4
+B1847,2026-04-20,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,8,489,10,3520.8,645.14,Returning,22,UPI,4.6
+B1848,2026-06-27,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,6,369,5,2103.3,426.81,Returning,41,Wallet,4.3
+B1849,2026-04-13,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,5,216,5,1026,175.92,New,42,Cash,3.4
+B1850,2026-01-01,Pune,Maharashtra,Beverages,Beverages,Juice,Real,4,316,20,1011.2,92.86,New,12,UPI,4.5
+B1851,2026-02-17,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,4,403,10,1450.8,295.94,New,23,Credit Card,4.2
+B1852,2026-04-20,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,3,296,5,843.6,104.35,New,40,Wallet,4.6
+B1853,2026-01-02,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,1,768,15,652.8,143.51,Returning,20,Wallet,3.2
+B1854,2026-05-11,Mumbai,Maharashtra,Fruits,Fruits,Apple,Fresh,2,274,0,548,95.79,Returning,27,Credit Card,4.9
+B1855,2026-03-19,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,8,741,0,5928,681.46,Returning,11,Wallet,3.6
+B1856,2026-05-21,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,5,554,20,2216,490.47,New,25,Wallet,4.3
+B1857,2026-06-21,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,6,567,15,2891.7,501.07,New,10,Cash,4.2
+B1858,2026-02-02,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,8,184,10,1324.8,230.68,Returning,58,Wallet,3.2
+B1859,2026-02-17,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,8,689,0,5512,790.25,New,50,UPI,3.1
+B1860,2026-05-29,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,3,118,20,283.2,54.37,New,35,UPI,4.8
+B1861,2026-05-22,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,6,150,5,855,102.85,Returning,26,UPI,3.5
+B1862,2026-02-07,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,8,110,15,748,169.57,New,53,Cash,3.6
+B1863,2026-06-18,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,2,618,0,1236,141.79,New,19,Wallet,3.5
+B1864,2026-05-16,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,5,363,5,1724.25,238.76,Returning,20,Cash,4.5
+B1865,2026-06-24,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,2,253,10,455.4,74.24,New,47,Credit Card,4.1
+B1866,2026-02-18,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,6,49,10,264.6,56.59,New,10,Cash,4.9
+B1867,2026-03-06,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,5,84,15,357,57.73,Returning,43,Cash,4.4
+B1868,2026-05-29,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,8,335,0,2680,334.91,New,53,Wallet,3.8
+B1869,2026-02-19,Jaipur,Rajasthan,Grocery,Grocery,Atta,Aashirvaad,2,68,15,115.6,23.11,New,18,UPI,4.8
+B1870,2026-02-17,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,2,703,15,1195.1,236.94,New,10,Cash,4.8
+B1871,2026-02-17,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,5,324,15,1377,205.3,New,47,UPI,3.8
+B1872,2026-04-17,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,5,444,0,2220,532.12,Returning,12,UPI,3.9
+B1873,2026-02-28,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,6,444,10,2397.6,217.49,Returning,58,Wallet,4
+B1874,2026-06-09,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,2,366,10,658.8,135.51,New,44,Wallet,4.4
+B1875,2026-01-21,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,8,632,15,4297.6,737.65,New,15,Cash,4.9
+B1876,2026-02-14,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,5,420,15,1785,402.96,New,49,Cash,4.1
+B1877,2026-05-20,Bengaluru,Karnataka,Beverages,Beverages,Soft Drink,Coca-Cola,4,523,20,1673.6,179.8,New,26,UPI,3.1
+B1878,2026-05-01,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,2,756,5,1436.4,219.46,Returning,13,UPI,3.5
+B1879,2026-06-16,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,7,673,5,4475.45,919.52,Returning,15,Credit Card,3.1
+B1880,2026-03-27,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,3,763,20,1831.2,221.63,Returning,18,UPI,4.5
+B1881,2026-02-14,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,1,181,10,162.9,18.37,Returning,24,UPI,4.5
+B1882,2026-04-14,Pune,Maharashtra,Snacks,Snacks,Biscuits,Britannia,8,630,0,5040,500.6,Returning,12,Credit Card,4.4
+B1883,2026-03-12,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,7,514,20,2878.4,650.28,New,47,Credit Card,4.1
+B1884,2026-03-04,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,7,609,15,3623.55,820.61,New,48,Credit Card,3.8
+B1885,2026-06-05,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,3,242,15,617.1,70.07,New,32,Wallet,3.5
+B1886,2026-03-13,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,2,480,0,960,158.58,New,24,Cash,4.6
+B1887,2026-06-09,Jaipur,Rajasthan,Dairy,Dairy,Curd,Mother Dairy,8,445,15,3026,654.92,Returning,43,Cash,3.2
+B1888,2026-06-01,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,2,83,15,141.1,16.5,Returning,45,UPI,3.3
+B1889,2026-02-21,Pune,Maharashtra,Beverages,Beverages,Juice,Real,3,181,5,515.85,105.06,Returning,34,UPI,4.5
+B1890,2026-05-05,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,8,677,5,5145.2,915.46,Returning,53,Credit Card,4.9
+B1891,2026-01-05,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,8,523,5,3974.8,559.61,New,56,UPI,3.6
+B1892,2026-02-21,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,1,202,20,161.6,21.92,Returning,48,Wallet,3
+B1893,2026-02-22,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,2,780,0,1560,385.82,Returning,54,Cash,3.8
+B1894,2026-04-23,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,2,178,15,302.6,29.79,Returning,30,Credit Card,3.9
+B1895,2026-06-17,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,4,641,5,2435.8,246.9,Returning,44,Wallet,4.3
+B1896,2026-01-27,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,6,733,5,4178.1,1005.77,New,20,UPI,3.6
+B1897,2026-01-25,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,7,543,15,3230.85,467.81,New,24,Credit Card,3.4
+B1898,2026-06-16,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,8,793,0,6344,1266.82,New,26,UPI,4.3
+B1899,2026-04-27,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,6,69,5,393.3,69.12,Returning,11,UPI,3.4
+B1900,2026-03-07,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,2,611,20,977.6,238.85,Returning,60,Cash,4.5
+B1901,2026-02-05,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,1,166,20,132.8,32.51,New,23,Credit Card,3.5
+B1902,2026-05-20,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,7,326,0,2282,348.83,New,40,UPI,4.1
+B1903,2026-02-09,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,5,610,20,2440,265.98,Returning,40,Wallet,3.6
+B1904,2026-06-17,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,4,745,5,2831,314.72,New,30,Cash,3.2
+B1905,2026-03-22,Mumbai,Maharashtra,Fruits,Fruits,Apple,Fresh,1,249,10,224.1,27.8,New,53,Cash,4.3
+B1906,2026-05-11,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,3,754,0,2262,352.69,Returning,52,UPI,3.1
+B1907,2026-04-05,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,8,374,0,2992,646.75,New,49,Wallet,3.1
+B1908,2026-05-19,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,8,192,20,1228.8,155.61,New,57,UPI,4.2
+B1909,2026-05-25,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,5,374,0,1870,393.45,New,31,UPI,4
+B1910,2026-02-24,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,2,500,20,800,180.86,New,37,Cash,4.9
+B1911,2026-04-24,Mumbai,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,3,340,15,867,167.27,Returning,46,Credit Card,4.9
+B1912,2026-03-06,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,3,720,5,2052,482.61,Returning,41,Cash,4.8
+B1913,2026-02-16,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,3,629,20,1509.6,191.77,Returning,34,UPI,3.8
+B1914,2026-02-10,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,8,343,10,2469.6,516.82,Returning,55,Credit Card,3.8
+B1915,2026-02-14,Bengaluru,Karnataka,Grocery,Grocery,Rice,Fortune,5,379,0,1895,473.08,New,31,Wallet,4.3
+B1916,2026-02-01,Ahmedabad,Gujarat,Dairy,Dairy,Curd,Mother Dairy,6,517,10,2791.8,257.81,Returning,25,Cash,4.7
+B1917,2026-04-25,Delhi,Delhi,Dairy,Dairy,Curd,Mother Dairy,1,677,5,643.15,91.22,Returning,13,UPI,3.1
+B1918,2026-04-11,Bengaluru,Karnataka,Snacks,Snacks,Chips,Lay's,2,65,5,123.5,24.84,New,51,Credit Card,3.6
+B1919,2026-04-18,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,5,769,15,3268.25,344,New,51,UPI,4.1
+B1920,2026-05-08,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,3,168,10,453.6,47.81,Returning,20,UPI,4.1
+B1921,2026-06-27,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,4,561,5,2131.8,481.63,New,59,Credit Card,3.3
+B1922,2026-04-23,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,7,337,20,1887.2,369.4,Returning,40,Wallet,3.4
+B1923,2026-01-19,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,4,794,0,3176,311.92,Returning,35,UPI,3.6
+B1924,2026-05-11,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,7,417,10,2627.1,586.08,New,14,Credit Card,4.1
+B1925,2026-06-18,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,4,77,20,246.4,48.68,New,15,Cash,3.9
+B1926,2026-03-11,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,3,515,20,1236,287.39,Returning,31,Credit Card,4.4
+B1927,2026-02-19,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,7,273,0,1911,375.08,Returning,24,UPI,3.1
+B1928,2026-04-15,Ahmedabad,Gujarat,Snacks,Snacks,Biscuits,Britannia,5,28,20,112,14.26,New,22,Wallet,3.2
+B1929,2026-05-06,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,6,754,20,3619.2,462.51,New,53,Cash,3.6
+B1930,2026-03-16,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,8,107,10,770.4,130.46,Returning,46,UPI,4.2
+B1931,2026-06-07,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,7,427,20,2391.2,369.22,New,40,UPI,4.4
+B1932,2026-03-27,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,6,524,10,2829.6,340.87,Returning,26,UPI,4.8
+B1933,2026-03-23,Delhi,Delhi,Fruits,Fruits,Banana,Fresh,1,535,10,481.5,108.33,Returning,19,Credit Card,3.1
+B1934,2026-04-07,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,3,73,20,175.2,23.51,New,40,Cash,4.7
+B1935,2026-04-17,Jaipur,Rajasthan,Beverages,Beverages,Soft Drink,Coca-Cola,8,33,15,224.4,26.26,New,12,UPI,4.7
+B1936,2026-06-14,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,6,158,0,948,80.03,New,36,Cash,3.3
+B1937,2026-06-04,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,3,692,5,1972.2,366.75,Returning,23,Cash,3.9
+B1938,2026-05-16,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,4,351,5,1333.8,287.5,Returning,56,Wallet,3.2
+B1939,2026-04-11,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,1,576,20,460.8,56.85,New,37,Wallet,4
+B1940,2026-03-22,Jaipur,Rajasthan,Fruits,Fruits,Banana,Fresh,6,391,15,1994.1,488.86,New,36,Cash,3.8
+B1941,2026-03-05,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,2,237,20,379.2,55.45,New,20,Wallet,4.7
+B1942,2026-06-16,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,4,238,0,952,143.16,New,33,Cash,4.9
+B1943,2026-02-13,Pune,Maharashtra,Grocery,Grocery,Rice,Fortune,8,447,0,3576,372.72,New,59,UPI,3.5
+B1944,2026-03-30,Jaipur,Rajasthan,Dairy,Dairy,Milk,Amul,7,619,15,3683.05,767.22,Returning,11,Wallet,4.6
+B1945,2026-01-31,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,6,503,0,3018,505.19,Returning,59,Wallet,4.9
+B1946,2026-01-20,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,8,311,0,2488,492.23,Returning,35,Credit Card,4.2
+B1947,2026-06-06,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,2,547,20,875.2,177.36,New,33,Wallet,4
+B1948,2026-06-07,Delhi,Delhi,Snacks,Snacks,Chips,Lay's,4,689,20,2204.8,544.97,Returning,51,UPI,4.6
+B1949,2026-04-01,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,2,304,5,577.6,118.43,New,51,UPI,4.3
+B1950,2026-01-29,Ahmedabad,Gujarat,Fruits,Fruits,Banana,Fresh,3,31,0,93,9.01,New,40,UPI,4.5
+B1951,2026-02-21,Delhi,Delhi,Grocery,Grocery,Rice,Fortune,6,800,0,4800,942.42,New,30,Wallet,4.7
+B1952,2026-06-18,Pune,Maharashtra,Beverages,Beverages,Soft Drink,Coca-Cola,8,157,15,1067.6,204.29,New,53,Credit Card,4
+B1953,2026-06-20,Delhi,Delhi,Fruits,Fruits,Apple,Fresh,1,711,10,639.9,125.34,Returning,39,Wallet,4.5
+B1954,2026-05-28,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,7,298,0,2086,255.26,Returning,17,UPI,4.3
+B1955,2026-01-31,Delhi,Delhi,Grocery,Grocery,Atta,Aashirvaad,2,788,10,1418.4,293.32,Returning,21,Credit Card,3.6
+B1956,2026-05-13,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,6,548,15,2794.8,477.79,Returning,41,Credit Card,3.3
+B1957,2026-06-18,Delhi,Delhi,Snacks,Snacks,Biscuits,Britannia,1,681,5,646.95,132.3,New,51,Cash,4
+B1958,2026-04-15,Mumbai,Maharashtra,Snacks,Snacks,Biscuits,Britannia,8,596,0,4768,1058.05,Returning,59,Wallet,4.1
+B1959,2026-05-07,Delhi,Delhi,Beverages,Beverages,Juice,Real,4,413,20,1321.6,161.17,Returning,32,UPI,3.3
+B1960,2026-04-29,Bengaluru,Karnataka,Fruits,Fruits,Apple,Fresh,3,137,10,369.9,86.74,New,19,UPI,4.9
+B1961,2026-05-22,Mumbai,Maharashtra,Fruits,Fruits,Banana,Fresh,5,476,5,2261,484.53,New,43,Cash,4.3
+B1962,2026-04-02,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,5,36,0,180,19.9,Returning,28,Credit Card,4.3
+B1963,2026-06-26,Ahmedabad,Gujarat,Dairy,Dairy,Milk,Amul,5,446,15,1895.5,264.49,New,45,UPI,4.2
+B1964,2026-01-27,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,7,402,5,2673.3,643.25,Returning,47,UPI,4.3
+B1965,2026-06-15,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,5,112,15,476,112.6,New,23,Credit Card,4.8
+B1966,2026-04-02,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,4,516,0,2064,370.12,Returning,51,Wallet,4.8
+B1967,2026-02-06,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,5,223,15,947.75,182.16,Returning,51,UPI,4.5
+B1968,2026-05-12,Mumbai,Maharashtra,Grocery,Grocery,Rice,Fortune,3,727,10,1962.9,230.16,Returning,42,UPI,3.2
+B1969,2026-06-13,Jaipur,Rajasthan,Beverages,Beverages,Juice,Real,6,605,20,2904,364.15,Returning,26,Cash,3.1
+B1970,2026-03-22,Pune,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,2,139,15,236.3,19.28,New,27,UPI,3.3
+B1971,2026-02-14,Mumbai,Maharashtra,Snacks,Snacks,Chips,Lay's,8,501,15,3406.8,746.26,New,24,Cash,4.9
+B1972,2026-06-15,Jaipur,Rajasthan,Snacks,Snacks,Biscuits,Britannia,2,356,0,712,98.54,New,32,UPI,4
+B1973,2026-03-04,Mumbai,Maharashtra,Dairy,Dairy,Curd,Mother Dairy,6,53,10,286.2,42.12,New,55,Credit Card,4.3
+B1974,2026-06-04,Jaipur,Rajasthan,Snacks,Snacks,Chips,Lay's,8,361,20,2310.4,437.37,Returning,60,Cash,3.8
+B1975,2026-05-19,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,1,379,5,360.05,55.98,New,30,Credit Card,3.7
+B1976,2026-04-10,Bengaluru,Karnataka,Beverages,Beverages,Juice,Real,3,610,10,1647,232.26,New,18,Wallet,3.8
+B1977,2026-06-28,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,3,752,15,1917.6,322.58,New,43,Credit Card,3.6
+B1978,2026-06-09,Ahmedabad,Gujarat,Snacks,Snacks,Chips,Lay's,3,471,20,1130.4,245.45,New,42,Wallet,4.5
+B1979,2026-03-10,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,1,631,15,536.35,94.78,New,43,UPI,3.9
+B1980,2026-01-26,Pune,Maharashtra,Fruits,Fruits,Banana,Fresh,1,326,5,309.7,63.35,Returning,32,Cash,4.7
+B1981,2026-03-07,Bengaluru,Karnataka,Fruits,Fruits,Banana,Fresh,3,678,5,1932.3,271.82,New,47,Wallet,3.3
+B1982,2026-03-30,Mumbai,Maharashtra,Beverages,Beverages,Juice,Real,1,663,10,596.7,120.34,Returning,38,UPI,3.8
+B1983,2026-05-17,Ahmedabad,Gujarat,Beverages,Beverages,Soft Drink,Coca-Cola,2,325,15,552.5,49.71,Returning,52,Wallet,3.2
+B1984,2026-06-14,Ahmedabad,Gujarat,Fruits,Fruits,Apple,Fresh,4,610,15,2074,384.99,Returning,19,Cash,3.1
+B1985,2026-05-15,Ahmedabad,Gujarat,Grocery,Grocery,Rice,Fortune,1,168,20,134.4,29.89,Returning,54,Credit Card,3.6
+B1986,2026-01-21,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,7,541,0,3787,638.85,New,49,UPI,4.6
+B1987,2026-06-24,Mumbai,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,6,228,5,1299.6,146.57,New,22,Wallet,5
+B1988,2026-06-29,Ahmedabad,Gujarat,Beverages,Beverages,Juice,Real,6,333,15,1698.3,358.01,Returning,45,Wallet,4.7
+B1989,2026-01-26,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,4,496,0,1984,470.82,Returning,52,Cash,3.5
+B1990,2026-03-10,Jaipur,Rajasthan,Grocery,Grocery,Rice,Fortune,8,46,0,368,40.67,Returning,22,UPI,3.4
+B1991,2026-04-17,Bengaluru,Karnataka,Grocery,Grocery,Atta,Aashirvaad,3,100,5,285,57.16,Returning,33,Wallet,3.4
+B1992,2026-05-05,Pune,Maharashtra,Beverages,Beverages,Juice,Real,5,581,0,2905,528.16,New,58,UPI,4.9
+B1993,2026-04-03,Pune,Maharashtra,Dairy,Dairy,Milk,Amul,7,681,0,4767,865.23,Returning,53,Cash,3.5
+B1994,2026-01-12,Mumbai,Maharashtra,Dairy,Dairy,Milk,Amul,1,243,5,230.85,22.2,Returning,45,UPI,4.2
+B1995,2026-04-27,Bengaluru,Karnataka,Snacks,Snacks,Biscuits,Britannia,3,563,0,1689,205.95,New,41,Cash,3.6
+B1996,2026-02-28,Pune,Maharashtra,Fruits,Fruits,Apple,Fresh,6,186,0,1116,218.68,Returning,52,Credit Card,3.8
+B1997,2026-03-27,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,8,160,0,1280,105.53,Returning,41,Wallet,3.9
+B1998,2026-03-05,Delhi,Delhi,Beverages,Beverages,Soft Drink,Coca-Cola,3,456,0,1368,168.41,Returning,55,Cash,3.3
+B1999,2026-06-04,Pune,Maharashtra,Grocery,Grocery,Atta,Aashirvaad,1,536,5,509.2,114.04,New,33,Wallet,4.4
