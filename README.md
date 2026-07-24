@@ -61,3 +61,4 @@ This project is an interactive Tableau dashboard created to analyze Blinkit sale
 Aspiring Data Analyst
 
 GitHub: https://github.com/RiyaVerma-13
+LinkedIn: https://www.linkedin.com/in/riyaverma13
